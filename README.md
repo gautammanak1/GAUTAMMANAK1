@@ -40,4 +40,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gautammanak1&show_icons=true&locale=en" alt="gautammanak1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gautammanak1&" alt="gautammanak1" /></p>
+### Code Editors I Love <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/red-heart_2764-fe0f.png" height="20px" width="20px"/>
+
+[<img src="https://user-images.githubusercontent.com/19266929/129100645-5d54330e-e8ee-4074-92be-734a094bace9.png" width="60px" height="60px"/>](https://www.jetbrains.com/idea/)
+[<img src="https://user-images.githubusercontent.com/19266929/129100586-b44913e0-1eec-4037-8a8b-61bea0e66397.png" width="60px" height="60px"/>](https://www.jetbrains.com/webstorm/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="60px" height="60px"/>](https://code.visualstudio.com/)
 
