@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **GAUTAMMANAK1@GMAIL.COM**
 
-- 📄 Know about my experiences gautammamanak.me
+- 📄 Persnol website http://gautammanak.me/
 
 - ⚡ Fun fact **I THINK AND I AM FUNNY CODER**
 
