@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gautammanak1" alt="gautammanak1" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/gautammanak1" target="blank"><img src="https://img.shields.io/twitter/follow/gautammanak1?logo=twitter&style=for-the-badge" alt="gautammanak1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/gautammanak01" target="blank"><img src="https://img.shields.io/twitter/follow/gautammanak1?logo=twitter&style=for-the-badge" alt="gautammanak1" /></a> </p>
 
 - 🔭 I’m currently working on **FORNT END DEVELOPER**
 
