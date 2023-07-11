@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gautammanak1" alt="gautammanak1" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/gautammanak01" target="blank"><img src="https://img.shields.io/twitter/follow/gautammanak01?logo=twitter&style=for-the-badge" alt="gautammanak01" /></a> </p>
-
+- 🔭 I’m currently working in **MLSA MIET**
 - 🌱 I’m currently learning **DSA with Java and. Web Development**
 
 - 👨‍💻 All of my projects are available at [https://gautammanak1.github.io/MyPortfolio/](https://gautammanak1.github.io/MyPortfolio/)
@@ -49,16 +49,17 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gautammanak1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gautammanak1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gautammanak1&show_icons=true&locale=en&layout=compact" alt="gautammanak1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gautammanak1&show_icons=true&locale=en" alt="gautammanak1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gautammanak1&" alt="gautammanak1" /></p>
 
 
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31behe2vrqqihfaeesjwqx2rxsha">
-    <img src="(https://spotify-recently-played-readme.vercel.app/api?user=31behe2vrqqihfaeesjwqx2rxsha&unique={true|1|on|yes})" alt="Spotify recently played"  />
+  <a href="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31behe2vrqqihfaeesjwqx2rxsha&count={count})">
+    <img src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31behe2vrqqihfaeesjwqx2rxsha&count={count})" alt="Spotify recently played"  />
   </a>
 </div>
 
