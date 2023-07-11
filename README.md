@@ -43,7 +43,9 @@
 
 ###
 
-<img src="[https://raw.githubusercontent.com/gautammanak1/gautammanak1/output/snake.svg](https://github.com/{{gautammanak1}}/{{gautammanak1}})" alt="Snake animation" />
+<p align="center">
+  <img src="https://github.com/gautammanak1/gautammanak1/raw/output/ocean.gif" alt="snake">
+</p>
 
 ###
 
