@@ -39,8 +39,11 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gautammanak1&" alt="gautammanak1" /></p>
+<<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gautammanak1&show_icons=true&locale=en&layout=compact" alt="gautammanak1" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gautammanak1&show_icons=true&locale=en" alt="gautammanak1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gautammanak1&" alt="gautammanak1" /></p>
 ###
 
 <p align="center">
@@ -49,18 +52,3 @@
 
 ###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gautammanak1&show_icons=true&locale=en&layout=compact" alt="gautammanak1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gautammanak1&show_icons=true&locale=en" alt="gautammanak1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gautammanak1&" alt="gautammanak1" /></p>
-
-
-
-<div align="center">
-  <a href="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31behe2vrqqihfaeesjwqx2rxsha&count={count})">
-    <img src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31behe2vrqqihfaeesjwqx2rxsha&count={count})" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
