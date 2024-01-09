@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.JS, Next.JS**
 
-- Book A Call [Book A Call](https://calendly.com/gautammanak1/30min?month=2024-01)
+- ☎️ Schedule a call   [☎️](https://calendly.com/gautammanak1/30min?month=2024-01)
 
 - 👨‍💻 Check my latest portfolio [https://gautammanak.vercel.app/](https://gautammanak.vercel.app/)
 
