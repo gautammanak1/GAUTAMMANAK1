@@ -1,9 +1,36 @@
-
 <h1 align="center">Hi 👋, I'm Gautam Manak</h1>
 <h3 align="center">I am a Full Stack Web Developer who has been playing around Web for the last 2-3 years. I ❤️ JavaScript and play around React.js, Anguler, and Node.js the whole day but that doesn't hold me back from trying different things. One can always find me trying and learning about different things like Tech, Space, Science and much more.</h3>
 
-# 💫 About Me:
-🔭 I’m currently working in @KloudiDev<br><br>🌱 I’m currently learning NodeJS, NextJS<br><br>📝 I regularly write articles on https://medium.com/@gautammanak1<br><br>💬 Ask me about FullStack(MERN)Development , Community, Talks on Web<br><br>📫 How to reach me gautammanak1@gmail.com
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gautammanak1&label=Profile%20views&color=0e75b6&style=flat" alt="gautammanak1" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gautammanak1" alt="gautammanak1" /></a> </p>
+
+- 🔭 I’m currently working on [KloudiDev](https://www.kloudidev.com/)
+
+- 🌱 I’m currently learning **Node.JS, Next.JS**
+
+- Book A Call [Book A Call](https://calendly.com/gautammanak1/30min?month=2024-01)
+
+- 👨‍💻 Check my latest portfolio [https://gautammanak.vercel.app/](https://gautammanak.vercel.app/)
+
+- 📝 I regularly write articles on [https://medium.com/@gautammanak1](https://medium.com/@gautammanak1)
+
+- 💬 Ask me about **Full Stack(MERN)Development , Community, Talks on Web**
+
+- 📫 How to reach me **gautammanak1@gmail.com**
+
+- 📄 Know about my experiences [https://www.canva.com/design/DAF2I4NE4cI/nMurc9DfPopDKJ3o5VvYMg/view?utm_content=DAF2I4NE4cI&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAF2I4NE4cI/nMurc9DfPopDKJ3o5VvYMg/view?utm_content=DAF2I4NE4cI&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+- ⚡ Fun fact **GPT**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://medium.com/@gautammanak1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gautammanak1" height="30" width="40" /></a>
+</p>
 
 
 ## 🌐 Socials:
