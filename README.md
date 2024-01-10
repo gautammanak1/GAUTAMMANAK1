@@ -7,9 +7,9 @@
 
 - ☎️ Schedule a call   [☎️](https://calendly.com/gautammanak1/30min?month=2024-01)
 
-- 👨‍💻 Check my latest portfolio [https://gautammanak.vercel.app/](https://gautammanak.vercel.app/)
+- 👨‍💻 Check my latest  [Portfolio](https://gautammanak.vercel.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@gautammanak1](https://medium.com/@gautammanak1)
+- 📝 I regularly write articles on [Medium](https://medium.com/@gautammanak1)
 
 - 💬 Ask me about **Full Stack(MERN)Development , Community, Talks on Web**
 
