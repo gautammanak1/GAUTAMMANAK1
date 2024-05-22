@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gautam Manak</h1>
 <h3 align="center">I am a Full Stack Web Developer who has been playing around Web for the last 2-3 years. I ❤️ JavaScript and play around React.js, Anguler, and Node.js the whole day but that doesn't hold me back from trying different things. One can always find me trying and learning about different things like Tech, Space, Science, and much more.</h3>
 
-- 🔭 I’m currently working on [KloudiDev](https://www.kloudidev.com/)
+- 🔭 I’m currently working on [Fetch.ai](https://www.fetch.ai.com/)
 
-- 🌱 I’m currently learning **Node.JS, Next.JS**
+- 🌱 I’m currently learning **Node.JS, Next.JS,Python**
 
 - ☎️ Schedule a call   [☎️](https://calendly.com/gautammanak1/30min?month=2024-01)
 
