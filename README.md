@@ -43,4 +43,4 @@
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=GAUTAMMANAK1&icon=0&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=gautammanak1&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
