@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.JS, Next.JS,Pytho,AI,NLP**
 
-- ☎️  [Schedule a call]((https://calendly.com/gautammanak1/call-with-gautam))
+- ☎️  [Schedule a call](https://calendly.com/gautammanak1/call-with-gautam)
 
 - 👨‍💻 Check my latest  [Portfolio](https://gautammanak.vercel.app/)
 
