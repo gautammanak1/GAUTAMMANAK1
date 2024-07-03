@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Fetch.ai](https://fetch.ai/)
 
-- 🌱 I’m currently learning **Node.JS, Next.JS,Pytho,AI,NLP**
+- 🌱 I’m currently learning **Node.JS, Next.JS,Python,AI,NLP**
 
 - ☎️  [Schedule a call](https://calendly.com/gautammanak1/call-with-gautam)
 
