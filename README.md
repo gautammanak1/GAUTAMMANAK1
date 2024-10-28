@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gautam Manak</h1>
-<h3 align="center">I am a Full Stack Web Developer who has been playing around Web for the last 2-3 years. I ❤️ JavaScript and play around React.js, Anguler, and Node.js the whole day but that doesn't hold me back from trying different things. One can always find me trying and learning about different things like Tech, Space, Science, and much more.</h3>
+<h3 align="center">🚀 With 2-3 years as a Full Stack Web Developer, I bring both depth and versatility to every project I take on. JavaScript has been my foundation, and I spend my days in the ecosystem of React.js, TypeScript, and Node.js, building dynamic, high-performance applications. Yet, I believe in staying adaptable and constantly expanding my knowledge. My passion for tech goes beyond the web, encompassing a range of fields, from artificial intelligence and agent-based systems 🤖 to emerging innovations in space 🌌 and science 🧬.
+
+As a Developer Advocate and tech speaker, I’m committed to bridging the gap between technology and its practical, transformative impact on users. I'm excited about the long-term potential of AI agents and web technologies to reshape our digital interactions and eager to share insights that help others navigate and thrive in this fast-evolving landscape. For me, being a developer means not just mastering today’s tools but also contributing to a forward-thinking community ready to shape the future of tech.</h3>
 
 - 🔭 I’m currently working on [Fetch.ai](https://fetch.ai/)
 
@@ -32,6 +34,13 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=GAUTAMMANAK1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 👥 Contribution Graph:
+<p>
+    <a href="https://vaunt.dev">
+        <img src="https://api.vaunt.dev/v1/github/entities/GAUTAMMANAK1/contributions?format=svg" width="350" title="Includes public contributions"/>
+    </a>
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
