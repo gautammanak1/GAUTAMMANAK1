@@ -3,6 +3,7 @@
 <h3 align="center">Developer Advocate @Fetch.ai 🤖 | Full Stack Engineer 💻 | Community Lead @MeerutCodeHub | Tech Speaker 🎤 | Tech Content Creator ✍️ | AI Agent Developer</h3>
 
 ---
+[![An image of @gautammanak1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gautammanak1)](https://holopin.io/@gautammanak1)
 
 ## About Me
 
