@@ -136,3 +136,4 @@ Miscellaneous tools and utilities that support my development workflow:
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/gautammanak1)
 
+[![Fetch.ai Innovation Lab Contributor — @gautammanak1](https://raw.githubusercontent.com/fetchai/innovation-lab-examples/main/.github/badges/contributor.png)](https://github.com/fetchai/innovation-lab-examples/pulls?q=author%3Agautammanak1%20is%3Amerged)
