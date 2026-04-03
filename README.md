@@ -42,19 +42,44 @@ class GautamManak:
     }
 ```
 
----
-
-## At a Glance
+<br/>
 
 <div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
 
-| | |
-|---|---|
-| **What I build** | Autonomous AI agent systems using uAgents, MCP, A2A, LangChain, CrewAI & Composio |
-| **What I ship** | Open-source packages (PyPI + npm), VS Code extensions, production full-stack apps |
-| **What I scale** | Developer communities, hackathons, workshops — **100+ events**, **75+ talks**, **5000+ devs** |
-| **What I write** | Technical docs, SDK guides, blog posts on Medium, workshop curricula |
+### What I Do
 
+</td>
+<td align="center" width="50%">
+
+### Impact
+
+</td>
+</tr>
+<tr>
+<td>
+
+- Architect **autonomous AI agents** with uAgents, CrewAI, LangChain, MCP, A2A & Composio
+- Build **production-grade full stack + Web3** apps with Next.js, React & Node.js
+- Publish **open-source PyPI & npm packages** for the agent ecosystem
+- Ship **VS Code extensions** powered by ASI1 API
+- Create **developer education** content, workshops & documentation
+
+</td>
+<td>
+
+- **100+** hackathons, workshops & events hosted
+- **75+** tech talks at IITs, Microsoft & communities
+- **5000+** developers reached & onboarded
+- **Published** PyPI & npm packages used by developers globally
+- **Launched** ASI1 child communities across 5+ Indian cities
+- **Built** Fetch Coder extension on VS Marketplace
+
+</td>
+</tr>
+</table>
 </div>
 
 ---
@@ -116,151 +141,207 @@ class GautamManak:
 
 ---
 
-## Shipped & Open Source
+## Featured Projects
+
+### Published Packages & Extensions
 
 <table>
 <tr>
-<td width="50%">
-
-**[Fetch Coder — VS Code Extension](https://marketplace.visualstudio.com/items?itemName=gautammanak2.fetch-coder)** &nbsp; [![VS Marketplace](https://img.shields.io/visual-studio-marketplace/v/gautammanak2.fetch-coder?style=flat-square&color=007ACC)](https://marketplace.visualstudio.com/items?itemName=gautammanak2.fetch-coder)
-<br/>
-`TypeScript` `VS Code API` `ASI1 API` `Streaming`
-
-**Problem:** Developers had no in-editor access to ASI1 intelligence.<br/>
-**Built:** Sidebar AI assistant with streaming replies, workspace-aware tools, web search, and file generation — zero context-switching.
-
-</td>
-<td width="50%">
+<td width="33%">
 
 **[uAgent-A2A-Adapter](https://pypi.org/project/uagent-a2a-adapter/)** &nbsp; [![PyPI](https://img.shields.io/pypi/v/uagent-a2a-adapter?style=flat-square&color=3775A9)](https://pypi.org/project/uagent-a2a-adapter/)
 <br/>
-`Python` `PyPI` `A2A Protocol` `Multi-Agent`
+`Python` `PyPI` `A2A Systems` `Multi-Agent`
+<br/><br/>
+Published Python package for integrating Agent-to-Agent systems with uAgents, enabling intelligent multi-agent coordination and communication.
 
-**Problem:** No bridge between Agent-to-Agent systems and uAgents.<br/>
-**Built:** Published Python package enabling seamless A2A ↔ uAgent coordination — adopted by the Fetch.ai dev community.
+</td>
+<td width="33%">
+
+**[ASI1-MCP-CLI](https://pypi.org/project/asi1-mcp-cli/)** &nbsp; [![PyPI](https://img.shields.io/pypi/v/asi1-mcp-cli?style=flat-square&color=3775A9)](https://pypi.org/project/asi1-mcp-cli/)
+<br/>
+`Python` `CLI` `MCP Servers` `Agentverse` `NLP`
+<br/><br/>
+Powerful CLI for interacting with ASI:One LLM and MCP servers using natural language queries. Call and discover Agentverse agents from the Marketplace — no JSON configuration needed.
+
+</td>
+<td width="33%">
+
+**[uagent-client](https://www.npmjs.com/package/uagent-client)** &nbsp; [![npm](https://img.shields.io/npm/v/uagent-client?style=flat-square&color=CB3837)](https://www.npmjs.com/package/uagent-client)
+<br/>
+`Node.js` `npm` `TypeScript` `uAgents`
+<br/><br/>
+npm package to talk to any Fetch.ai uAgent from Node.js or web apps. Handles blockchain agent communication with seamless Agentverse integration.
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td colspan="3">
 
-**[ASI1-MCP-CLI](https://pypi.org/project/asi1-mcp-cli/)** &nbsp; [![PyPI](https://img.shields.io/pypi/v/asi1-mcp-cli?style=flat-square&color=3775A9)](https://pypi.org/project/asi1-mcp-cli/)
+**[Fetch Coder — VS Code Extension](https://marketplace.visualstudio.com/items?itemName=gautammanak2.fetch-coder)** &nbsp; [![VS Marketplace](https://img.shields.io/visual-studio-marketplace/v/gautammanak2.fetch-coder?style=flat-square&color=007ACC)](https://marketplace.visualstudio.com/items?itemName=gautammanak2.fetch-coder)
 <br/>
-`Python` `CLI` `MCP Servers` `NLP`
-
-**Problem:** Connecting to MCP servers required manual JSON configuration.<br/>
-**Built:** CLI tool that lets developers interact with ASI:One LLM and MCP servers using plain English.
-
-</td>
-<td width="50%">
-
-**[uagent-client](https://www.npmjs.com/package/uagent-client)** &nbsp; [![npm](https://img.shields.io/npm/v/uagent-client?style=flat-square&color=CB3837)](https://www.npmjs.com/package/uagent-client)
-<br/>
-`Node.js` `npm` `TypeScript` `Blockchain`
-
-**Problem:** No simple way to talk to uAgents from JavaScript/TypeScript apps.<br/>
-**Built:** npm package handling blockchain agent communication with Agentverse integration — works in Node.js, Next.js, and browsers.
+`TypeScript` `VS Code API` `ASI1 API` `Streaming` `Markdown`
+<br/><br/>
+Sidebar AI coding assistant for VS Code & Cursor powered by ASI1. Generate code, explain bugs, create files, and ship without leaving the editor. Supports streaming replies, workspace-aware tools, web search, and file generation.
 
 </td>
 </tr>
 </table>
 
----
-
-## Featured Projects
+### MCP & Agent Protocol
 
 <table>
 <tr>
 <td width="50%">
 
-**[Sociantra — AI LinkedIn Platform](https://mnee-ai-social.vercel.app/)** &nbsp; [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://mnee-ai-social.vercel.app/)
+**[Software Developer MCP Client Agent](https://github.com/gautammanak1/Software-Developer-MCP-Client-Agent)**
 <br/>
-`Next.js` `Python` `uAgents` `LangChain` `Supabase` `MNEE Stablecoin`
-
-Full-stack + Web3 LinkedIn automation platform. AI post generation via Gemini, blockchain-verified MNEE micropayments, smart scheduling, LinkedIn OAuth, and agent-to-agent orchestration via uAgents.
+`Python` `uAgents` `MCP` `SSE` `React` `Next.js`
+<br/><br/>
+uAgents-based tool connecting to MCP servers via Server-Sent Events with a chat interface. Integrated with Flowise & Activepieces for natural language + structured command support.
 
 </td>
 <td width="50%">
 
-**[MCP Client Agent](https://github.com/gautammanak1/Software-Developer-MCP-Client-Agent)**
+**[uAgent-Google ADK Integration](https://medium.com/@gautammanak1)**
 <br/>
-`Python` `uAgents` `MCP` `SSE` `React` `Next.js`
-
-uAgents-powered MCP server connector with chat interface and SSE streaming. Integrated with Flowise & Activepieces for natural language and structured command execution.
+`Python` `Fetch.ai SDK` `Google ADK` `REST APIs`
+<br/><br/>
+Integrated uAgents with Google ADK for decentralized AI agent ↔ conversational AI communication. Demonstrated via a real-time crypto data bot.
 
 </td>
 </tr>
+</table>
+
+### Full Stack + Web3 + AI Agents
+
+<table>
+<tr>
+<td width="50%">
+
+**[Sociantra — AI LinkedIn Automation Platform](https://mnee-ai-social.vercel.app/)** &nbsp; [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://mnee-ai-social.vercel.app/)
+<br/>
+`Next.js` `React` `TypeScript` `Python` `uAgents` `LangChain` `Supabase` `MNEE Stablecoin` `Framer Motion`
+<br/><br/>
+AI-powered LinkedIn content automation platform with MNEE stablecoin (Web3) micropayments. Features AI post generation via Google Gemini, smart scheduling with cron & calendar, URL-to-Post conversion, multi-language support (7 languages), LinkedIn OAuth integration, blockchain-verified payments, team approval workflows, and analytics dashboard. Built with uAgents framework for agent-to-agent service orchestration.
+
+</td>
+<td width="50%">
+
+**[CareerPilot — Smart Career Companion](https://github.com/gautammanak1/CareerPilot)**
+<br/>
+`Next.js` `Azure AI` `Cosmos DB` `GitHub Actions`
+<br/><br/>
+Intelligent job-hunting platform with ATS-compliant resume scoring, personalized job recommendations, AI-powered mock interviews, skill gap analysis, and custom resume building with learning path guidance.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[AI Thumbnail Generator](https://ai-thumbnail-generator-omega.vercel.app/)** &nbsp; [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://ai-thumbnail-generator-omega.vercel.app/)
+<br/>
+`MERN Stack` `AI Integration` `MongoDB` `Express`
+<br/><br/>
+Full-stack app for creating AI-generated thumbnails with advanced generation capabilities. Live and production-ready.
+
+</td>
+<td width="50%">
+
+**[Tamar Software Website](https://tamarsoftware.com/)** &nbsp; [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://tamarsoftware.com/)
+<br/>
+`Next.js` `TypeScript` `Tailwind CSS` `Responsive Design`
+<br/><br/>
+Professional company website featuring responsive design, modern UI/UX, and optimized performance for business presentation.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[GradPathAI](https://github.com/gautammanak1/GradPathAI)**
+<br/>
+`React.js` `Fetch.ai SDK` `Firebase` `Tailwind CSS`
+<br/><br/>
+AI-powered platform guiding students with career advice, resume analysis, job search assistance, and mentorship.
+
+</td>
+<td width="50%">
+
+**[MonkHood](https://github.com/gautammanak1/MonkHood)**
+<br/>
+`React.js` `Firebase` `GCP` `Tailwind CSS`
+<br/><br/>
+Productivity platform for creating, editing, and managing events, appointments & tasks with collaboration and metrics.
+
+</td>
+</tr>
+</table>
+
+### AI Agent Systems
+
+<table>
 <tr>
 <td width="50%">
 
 **[RAG Chat Agent](https://github.com/gautammanak1/RAG-Chat-Agent)**
 <br/>
 `Python` `Agno RAG` `uAgent` `GPT-4o-mini` `PgVector`
-
-Distributed RAG agent combining Agno RAG with uAgent protocol. Hybrid semantic + keyword search with real-time PDF processing and intelligent embeddings.
+<br/><br/>
+Retrieval-Augmented Generation agent combining Agno RAG with uAgent's distributed protocol. Hybrid semantic + keyword search with real-time PDF processing.
 
 </td>
 <td width="50%">
 
-**[CareerPilot](https://github.com/gautammanak1/CareerPilot)**
+**[Discussion Team Agent](https://github.com/gautammanak1/Discussion-Team-Agent)**
 <br/>
-`Next.js` `Azure AI` `Cosmos DB` `GitHub Actions`
+`Python` `HackerNews API` `Academic APIs` `Twitter API`
+<br/><br/>
+Multi-agent system gathering insights from HackerNews discussions, academic papers, and Twitter trends for holistic topic analysis.
 
-AI career companion with ATS resume scoring, mock interviews, skill gap analysis, and personalized learning paths. End-to-end full-stack with CI/CD.
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[Gmail-ASI-Agent](https://github.com/gautammanak1/Gmail-ASI-Agent)**
+<br/>
+`Python` `uAgents` `Composio SDK` `GPT-4o-mini` `Gmail API`
+<br/><br/>
+Intelligent Gmail assistant deployed on AgentVerse with dynamic auth — reads emails, manages contacts, handles spam via natural language.
+
+</td>
+<td width="50%">
+
+**[Blood Report Analysis Agent](https://github.com/gautammanak1/Blood-Report-Analysis-Agent)**
+<br/>
+`Python` `CrewAI` `uAgents Adapter` `Google Drive API`
+<br/><br/>
+Analyzes blood test PDFs from Google Drive and delivers comprehensive health summaries with tailored recommendations.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[Shopping Partner Agent](https://github.com/gautammanak1/Shopping-Partner-Agent)**
+<br/>
+`Python` `AI Recommendation` `E-commerce` `uAgents`
+<br/><br/>
+AI-powered product recommender that searches trusted e-commerce sites and verifies availability based on user preferences.
+
+</td>
+<td width="50%">
+
+**[AI-Agents Collection](https://github.com/gautammanak1/AI-Agents)**
+<br/>
+`Python` `Fetch.ai SDK` `Agentverse` `DeltaV`
+<br/><br/>
+Suite of AI agents for job search, hackathon discovery, profile recommendations, vehicle challan retrieval, and more.
 
 </td>
 </tr>
 </table>
-
-<details>
-<summary><strong>More Projects →</strong></summary>
-<br/>
-
-| Project | Stack | What it does |
-|---------|-------|-------------|
-| [Gmail-ASI-Agent](https://github.com/gautammanak1/Gmail-ASI-Agent) | Python, uAgents, Composio, GPT-4o-mini | Gmail assistant with dynamic auth — reads, manages, and handles spam via natural language |
-| [Discussion Team Agent](https://github.com/gautammanak1/Discussion-Team-Agent) | Python, Multi-Agent, APIs | Aggregates insights from HackerNews, academic papers, and Twitter for topic analysis |
-| [Blood Report Agent](https://github.com/gautammanak1/Blood-Report-Analysis-Agent) | Python, CrewAI, Google Drive API | Analyzes blood test PDFs and delivers health summaries with recommendations |
-| [Shopping Partner Agent](https://github.com/gautammanak1/Shopping-Partner-Agent) | Python, uAgents, E-commerce | AI product recommender verifying availability across trusted e-commerce sites |
-| [AI Thumbnail Generator](https://ai-thumbnail-generator-omega.vercel.app/) | MERN Stack, AI Integration | Full-stack AI thumbnail generation — live and production-ready |
-| [GradPathAI](https://github.com/gautammanak1/GradPathAI) | React, Fetch.ai SDK, Firebase | AI platform for career advice, resume analysis, and mentorship |
-| [uAgent-Google ADK](https://medium.com/@gautammanak1) | Python, Google ADK, Fetch.ai SDK | uAgent ↔ Google ADK integration for conversational AI with real-time crypto data |
-
-</details>
-
----
-
-## Key Achievements
-
-<div align="center">
-
-| Metric | Detail |
-|--------|--------|
-| **100+ Events** | Hackathons, workshops & tech events hosted across India |
-| **75+ Talks** | At IITs, Microsoft offices, and developer communities nationwide |
-| **5000+ Developers** | Directly onboarded to the Fetch.ai / ASI1 agent ecosystem |
-| **3 Packages Shipped** | `uagent-a2a-adapter` + `asi1-mcp-cli` (PyPI) · `uagent-client` (npm) |
-| **VS Code Extension** | [Fetch Coder](https://marketplace.visualstudio.com/items?itemName=gautammanak2.fetch-coder) — AI coding assistant on the Marketplace |
-| **5 Cities** | Launched ASI1 child communities in Bangalore, Pune, Mumbai, Noida & Meerut |
-| **3 Communities** | Founded MeerutCodeHub · Lead Fetch.ai Delhi NCR · Lead ASI1 India |
-| **Top 10** | CodeNight Hackathon by Squareboat (Feb 2023) |
-
-</div>
-
----
-
-## What I'm Building Now
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│  → Autonomous AI Agent Systems    MCP + A2A infrastructure          │
-│  → Developer Tooling              CLI tools, SDKs, VS Code plugins  │
-│  → Agent Ecosystem Growth         Docs, workshops, community        │
-│  → Full Stack + Web3              AI-native apps with stablecoin    │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
 
 ---
 
@@ -268,55 +349,132 @@ AI career companion with ATS resume scoring, mock interviews, skill gap analysis
 
 <div align="center">
 
-**Agent & AI** &nbsp;&nbsp;
-![uAgents](https://img.shields.io/badge/uAgents-000000?style=flat-square&logo=n8n&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-1f6feb?style=flat-square)
-![A2A](https://img.shields.io/badge/A2A-161b22?style=flat-square)
-![Composio](https://img.shields.io/badge/Composio-FF4081?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white)
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-**Languages** &nbsp;&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### AI & Agent Technologies
+![uAgents](https://img.shields.io/badge/uAgents-000000?style=for-the-badge&logo=n8n&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-1f6feb?style=for-the-badge)
+![A2A](https://img.shields.io/badge/Agent--to--Agent-161b22?style=for-the-badge)
+![Composio](https://img.shields.io/badge/Composio-FF4081?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge)
+![Agno RAG](https://img.shields.io/badge/Agno_RAG-764ABC?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-8E24AA?style=for-the-badge)
 
-**Frontend** &nbsp;&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
-![Shadcn](https://img.shields.io/badge/shadcn/ui-000?style=flat-square&logo=shadcnui&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
-**Backend** &nbsp;&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+![Webhooks](https://img.shields.io/badge/Webhooks-6B7280?style=for-the-badge)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-**Data** &nbsp;&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![PgVector](https://img.shields.io/badge/PgVector-336791?style=flat-square)
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PgVector](https://img.shields.io/badge/PgVector-336791?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Azure Cosmos DB](https://img.shields.io/badge/Cosmos_DB-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-**DevOps** &nbsp;&nbsp;
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+### DevOps, Cloud & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 </div>
+
+---
+
+## Open Source Contributions
+
+<div align="center">
+
+I actively contribute to the [Fetch.ai](https://github.com/fetchai) organization — commits, issues, pull requests, code reviews, and merges across core repos.
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/Open_Source_Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gautammanak1?tab=repositories)
+[![PyPI Packages](https://img.shields.io/badge/PyPI_Packages-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/gautammanak1/)
+[![npm Packages](https://img.shields.io/badge/npm_Packages-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/uagent-client)
+[![VS Code Extensions](https://img.shields.io/badge/VS_Code_Extensions-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=gautammanak2.fetch-coder)
+
+<br/>
+
+| Area | Contributions |
+|------|--------------|
+| **Fetch.ai Ecosystem** | uAgent integrations, Innovation Lab website, SDK documentation, agent demos |
+| **Commits & PRs** | [fetchai/uAgents](https://github.com/fetchai/uAgents), [fetchai/docs](https://github.com/fetchai/docs), Innovation Lab, SDK repos |
+| **Code Reviews** | Bug reports, feature requests, code reviews & merge approvals across Fetch.ai org |
+| **PyPI Packages** | `uagent-a2a-adapter` — A2A ↔ uAgent bridge, `asi1-mcp-cli` — MCP CLI tool |
+| **npm Packages** | `uagent-client` — Node.js/web library for uAgent communication |
+| **VS Code** | `Fetch Coder` — AI coding assistant powered by ASI1 API |
+| **Documentation** | Fetch.ai docs, uAgent guides, workshop materials, blog posts on Medium |
+
+</div>
+
+---
+
+## Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## Dev Metrics
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+## Coding Stats (All Time)
+
+<!--START_SECTION:waka-simple-->
+<!--END_SECTION:waka-simple-->
 
 ---
 
@@ -334,60 +492,95 @@ AI career companion with ATS resume scoring, mock interviews, skill gap analysis
 
 ## GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/GAUTAMMANAK1">
-    <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GAUTAMMANAK1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb&include_all_commits=true&count_private=true&cache_seconds=21600" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/GAUTAMMANAK1">
-    <img width="49%" src="https://streak-stats.demolab.com?user=GAUTAMMANAK1&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/GAUTAMMANAK1">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=GAUTAMMANAK1&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area_color=1f6feb&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph" />
-  </a>
-</p>
-
-### GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GAUTAMMANAK1&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" width="90%" alt="GitHub Trophies" />
-</p>
-
-### Top Contributed Repos
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=GAUTAMMANAK1&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="70%" alt="Top Contributed Repos" />
-</p>
-
-### Open Source Contributions — Fetch.ai Ecosystem
-
 <div align="center">
 
-I actively contribute to the [Fetch.ai](https://github.com/fetchai) organization — commits, issues, pull requests, code reviews, and merges across core repos.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GAUTAMMANAK1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb&include_all_commits=true&count_private=true)
 
-| Contribution | Repos & Details |
-|---|---|
-| **Commits & PRs** | [fetchai/uAgents](https://github.com/fetchai/uAgents), [fetchai/docs](https://github.com/fetchai/docs), Innovation Lab, SDK repos |
-| **Issues & Reviews** | Bug reports, feature requests, code reviews across the Fetch.ai org |
-| **Documentation** | SDK guides, uAgent tutorials, API references, workshop materials |
-| **Integrations** | Google ADK, Composio, LangChain, CrewAI adapters for the uAgent ecosystem |
-| **Community Tools** | Published `uagent-a2a-adapter`, `asi1-mcp-cli` (PyPI) + `uagent-client` (npm) |
+![GitHub Streak](https://streak-stats.demolab.com?user=GAUTAMMANAK1&theme=tokyonight&hide_border=true&background=0d1117&stroke=1f6feb&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9)
 
-<br/>
-
-<a href="https://github.com/GAUTAMMANAK1">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GAUTAMMANAK1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&cache_seconds=21600" width="55%" alt="Detailed GitHub Stats" />
-</a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GAUTAMMANAK1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact&langs_count=8)
 
 </div>
 
 ---
 
+## Activity Graph
+
 <div align="center">
 
-### Let's Work Together
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=GAUTAMMANAK1&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area_color=1f6feb&area=true&hide_border=true&custom_title=Contribution%20Graph)
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GAUTAMMANAK1&theme=darkhub&no-frame=true&margin-w=10&column=7)
+
+</div>
+
+---
+
+## Top Contributed Repos
+
+<div align="center">
+
+![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=GAUTAMMANAK1&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+</div>
+
+---
+
+## Leadership & Community
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+
+**MeerutCodeHub** — Founder & Lead
+<br/><sub>Dec 2022 — Present</sub>
+<br/><br/>
+Organized 20+ tech events, hackathons & coding competitions attracting 500+ attendees each. Built a vibrant developer community in Meerut, India.
+
+</td>
+<td align="center" width="33%">
+
+**Fetch.ai Developer Community** — Lead
+<br/><sub>Dec 2023 — Present &nbsp;|&nbsp; Delhi NCR</sub>
+<br/><br/>
+Hosted 100+ Fetch.ai uAgent events across India including a hackathon at Microsoft Office Gurugram with 200+ participants.
+
+</td>
+<td align="center" width="33%">
+
+**ASI1 Lead India** — Community Lead
+<br/><sub>2024 — Present &nbsp;|&nbsp; Pan-India</sub>
+<br/><br/>
+Launched the ASI1 child community across India with offline-first presence in Bangalore, Pune, Mumbai, Noida & Meerut. Hired campus ambassadors & city leads to drive ASI1.ai engagement, organized local meetups, and onboarded developers to the ASI1 ecosystem.
+
+</td>
+</tr>
+</table>
+</div>
+
+### Achievements
+
+- Delivered **75+ talks** at colleges (including IITs) and Microsoft offices across India
+- **Top 10 Runner-Up** — CodeNight Hackathon by Squareboat (Feb 2023)
+- Published **3 open-source packages** (2 PyPI + 1 npm) used by the developer community
+- Shipped **Fetch Coder** — AI coding extension on the VS Code Marketplace
+
+---
+
+<div align="center">
+
+## Let's Connect
+
+<br/>
 
 I'm selectively open to **AI/Agent engineering roles**, **DevRel positions**, **contract development**, and **ecosystem partnerships**.
 
@@ -398,7 +591,11 @@ If you're building in the agent space — let's talk.
 [![Portfolio](https://img.shields.io/badge/gautammanak.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white)](https://gautammanak.vercel.app/)
 [![Email](https://img.shields.io/badge/gautammanak1@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gautammanak1@gmail.com)
 [![Book a Call](https://img.shields.io/badge/Book%20a%20Call-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white)](https://calendly.com/gautammanak1/call-with-gautam)
-[![Resume](https://img.shields.io/badge/Resume-1f6feb?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1v-mogFsBPvZ_zemrcNNPKMfrca5UUi3o/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Download%20Resume-1f6feb?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1v-mogFsBPvZ_zemrcNNPKMfrca5UUi3o/view?usp=sharing)
+
+<br/>
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/gautammanak1)
 
 <br/>
 
