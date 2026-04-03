@@ -2,6 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=230&section=header&text=Gautam%20Kumar%20(Manak)&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Building%20Autonomous%20AI%20Agent%20Systems%20at%20Scale&descSize=18&descAlignY=56&descAlign=50" width="100%" />
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
+
+<br/>
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Developer+Advocate+%40+Fetch.ai+%E2%80%A2+ASI1+Lead+India;Shipped+3+packages+on+PyPI+%2B+npm+%E2%80%A2+VS+Code+Extension;100%2B+Events+%E2%80%A2+75%2B+Talks+%E2%80%A2+5000%2B+Developers+Reached" alt="Typing SVG" />
 </a>
@@ -150,8 +154,6 @@ class GautamManak:
 <td width="33%">
 
 **[uAgent-A2A-Adapter](https://pypi.org/project/uagent-a2a-adapter/)** &nbsp; [![PyPI](https://img.shields.io/pypi/v/uagent-a2a-adapter?style=flat-square&color=3775A9)](https://pypi.org/project/uagent-a2a-adapter/)
-<br/>
-`Python` `PyPI` `A2A Systems` `Multi-Agent`
 <br/><br/>
 Published Python package for integrating Agent-to-Agent systems with uAgents, enabling intelligent multi-agent coordination and communication.
 
@@ -159,8 +161,6 @@ Published Python package for integrating Agent-to-Agent systems with uAgents, en
 <td width="33%">
 
 **[ASI1-MCP-CLI](https://pypi.org/project/asi1-mcp-cli/)** &nbsp; [![PyPI](https://img.shields.io/pypi/v/asi1-mcp-cli?style=flat-square&color=3775A9)](https://pypi.org/project/asi1-mcp-cli/)
-<br/>
-`Python` `CLI` `MCP Servers` `Agentverse` `NLP`
 <br/><br/>
 Powerful CLI for interacting with ASI:One LLM and MCP servers using natural language queries. Call and discover Agentverse agents from the Marketplace — no JSON configuration needed.
 
@@ -168,8 +168,6 @@ Powerful CLI for interacting with ASI:One LLM and MCP servers using natural lang
 <td width="33%">
 
 **[uagent-client](https://www.npmjs.com/package/uagent-client)** &nbsp; [![npm](https://img.shields.io/npm/v/uagent-client?style=flat-square&color=CB3837)](https://www.npmjs.com/package/uagent-client)
-<br/>
-`Node.js` `npm` `TypeScript` `uAgents`
 <br/><br/>
 npm package to talk to any Fetch.ai uAgent from Node.js or web apps. Handles blockchain agent communication with seamless Agentverse integration.
 
@@ -179,8 +177,6 @@ npm package to talk to any Fetch.ai uAgent from Node.js or web apps. Handles blo
 <td colspan="3">
 
 **[Fetch Coder — VS Code Extension](https://marketplace.visualstudio.com/items?itemName=gautammanak2.fetch-coder)** &nbsp; [![VS Marketplace](https://img.shields.io/visual-studio-marketplace/v/gautammanak2.fetch-coder?style=flat-square&color=007ACC)](https://marketplace.visualstudio.com/items?itemName=gautammanak2.fetch-coder)
-<br/>
-`TypeScript` `VS Code API` `ASI1 API` `Streaming` `Markdown`
 <br/><br/>
 Sidebar AI coding assistant for VS Code & Cursor powered by ASI1. Generate code, explain bugs, create files, and ship without leaving the editor. Supports streaming replies, workspace-aware tools, web search, and file generation.
 
@@ -195,8 +191,6 @@ Sidebar AI coding assistant for VS Code & Cursor powered by ASI1. Generate code,
 <td width="50%">
 
 **[Software Developer MCP Client Agent](https://github.com/gautammanak1/Software-Developer-MCP-Client-Agent)**
-<br/>
-`Python` `uAgents` `MCP` `SSE` `React` `Next.js`
 <br/><br/>
 uAgents-based tool connecting to MCP servers via Server-Sent Events with a chat interface. Integrated with Flowise & Activepieces for natural language + structured command support.
 
@@ -204,8 +198,6 @@ uAgents-based tool connecting to MCP servers via Server-Sent Events with a chat 
 <td width="50%">
 
 **[uAgent-Google ADK Integration](https://medium.com/@gautammanak1)**
-<br/>
-`Python` `Fetch.ai SDK` `Google ADK` `REST APIs`
 <br/><br/>
 Integrated uAgents with Google ADK for decentralized AI agent ↔ conversational AI communication. Demonstrated via a real-time crypto data bot.
 
@@ -219,9 +211,7 @@ Integrated uAgents with Google ADK for decentralized AI agent ↔ conversational
 <tr>
 <td width="50%">
 
-**[Sociantra — AI LinkedIn Automation Platform](https://mnee-ai-social.vercel.app/)** &nbsp; [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://mnee-ai-social.vercel.app/)
-<br/>
-`Next.js` `React` `TypeScript` `Python` `uAgents` `LangChain` `Supabase` `MNEE Stablecoin` `Framer Motion`
+**[Sociantra — AI LinkedIn Automation Platform](https://mnee-ai-social.vercel.app/)**
 <br/><br/>
 AI-powered LinkedIn content automation platform with MNEE stablecoin (Web3) micropayments. Features AI post generation via Google Gemini, smart scheduling with cron & calendar, URL-to-Post conversion, multi-language support (7 languages), LinkedIn OAuth integration, blockchain-verified payments, team approval workflows, and analytics dashboard. Built with uAgents framework for agent-to-agent service orchestration.
 
@@ -229,8 +219,6 @@ AI-powered LinkedIn content automation platform with MNEE stablecoin (Web3) micr
 <td width="50%">
 
 **[CareerPilot — Smart Career Companion](https://github.com/gautammanak1/CareerPilot)**
-<br/>
-`Next.js` `Azure AI` `Cosmos DB` `GitHub Actions`
 <br/><br/>
 Intelligent job-hunting platform with ATS-compliant resume scoring, personalized job recommendations, AI-powered mock interviews, skill gap analysis, and custom resume building with learning path guidance.
 
@@ -239,18 +227,14 @@ Intelligent job-hunting platform with ATS-compliant resume scoring, personalized
 <tr>
 <td width="50%">
 
-**[AI Thumbnail Generator](https://ai-thumbnail-generator-omega.vercel.app/)** &nbsp; [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://ai-thumbnail-generator-omega.vercel.app/)
-<br/>
-`MERN Stack` `AI Integration` `MongoDB` `Express`
+**[AI Thumbnail Generator](https://ai-thumbnail-generator-omega.vercel.app/)**
 <br/><br/>
 Full-stack app for creating AI-generated thumbnails with advanced generation capabilities. Live and production-ready.
 
 </td>
 <td width="50%">
 
-**[Tamar Software Website](https://tamarsoftware.com/)** &nbsp; [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://tamarsoftware.com/)
-<br/>
-`Next.js` `TypeScript` `Tailwind CSS` `Responsive Design`
+**[Tamar Software Website](https://tamarsoftware.com/)**
 <br/><br/>
 Professional company website featuring responsive design, modern UI/UX, and optimized performance for business presentation.
 
@@ -260,8 +244,6 @@ Professional company website featuring responsive design, modern UI/UX, and opti
 <td width="50%">
 
 **[GradPathAI](https://github.com/gautammanak1/GradPathAI)**
-<br/>
-`React.js` `Fetch.ai SDK` `Firebase` `Tailwind CSS`
 <br/><br/>
 AI-powered platform guiding students with career advice, resume analysis, job search assistance, and mentorship.
 
@@ -269,8 +251,6 @@ AI-powered platform guiding students with career advice, resume analysis, job se
 <td width="50%">
 
 **[MonkHood](https://github.com/gautammanak1/MonkHood)**
-<br/>
-`React.js` `Firebase` `GCP` `Tailwind CSS`
 <br/><br/>
 Productivity platform for creating, editing, and managing events, appointments & tasks with collaboration and metrics.
 
@@ -285,8 +265,6 @@ Productivity platform for creating, editing, and managing events, appointments &
 <td width="50%">
 
 **[RAG Chat Agent](https://github.com/gautammanak1/RAG-Chat-Agent)**
-<br/>
-`Python` `Agno RAG` `uAgent` `GPT-4o-mini` `PgVector`
 <br/><br/>
 Retrieval-Augmented Generation agent combining Agno RAG with uAgent's distributed protocol. Hybrid semantic + keyword search with real-time PDF processing.
 
@@ -294,8 +272,6 @@ Retrieval-Augmented Generation agent combining Agno RAG with uAgent's distribute
 <td width="50%">
 
 **[Discussion Team Agent](https://github.com/gautammanak1/Discussion-Team-Agent)**
-<br/>
-`Python` `HackerNews API` `Academic APIs` `Twitter API`
 <br/><br/>
 Multi-agent system gathering insights from HackerNews discussions, academic papers, and Twitter trends for holistic topic analysis.
 
@@ -305,8 +281,6 @@ Multi-agent system gathering insights from HackerNews discussions, academic pape
 <td width="50%">
 
 **[Gmail-ASI-Agent](https://github.com/gautammanak1/Gmail-ASI-Agent)**
-<br/>
-`Python` `uAgents` `Composio SDK` `GPT-4o-mini` `Gmail API`
 <br/><br/>
 Intelligent Gmail assistant deployed on AgentVerse with dynamic auth — reads emails, manages contacts, handles spam via natural language.
 
@@ -314,8 +288,6 @@ Intelligent Gmail assistant deployed on AgentVerse with dynamic auth — reads e
 <td width="50%">
 
 **[Blood Report Analysis Agent](https://github.com/gautammanak1/Blood-Report-Analysis-Agent)**
-<br/>
-`Python` `CrewAI` `uAgents Adapter` `Google Drive API`
 <br/><br/>
 Analyzes blood test PDFs from Google Drive and delivers comprehensive health summaries with tailored recommendations.
 
@@ -325,8 +297,6 @@ Analyzes blood test PDFs from Google Drive and delivers comprehensive health sum
 <td width="50%">
 
 **[Shopping Partner Agent](https://github.com/gautammanak1/Shopping-Partner-Agent)**
-<br/>
-`Python` `AI Recommendation` `E-commerce` `uAgents`
 <br/><br/>
 AI-powered product recommender that searches trusted e-commerce sites and verifies availability based on user preferences.
 
@@ -334,8 +304,6 @@ AI-powered product recommender that searches trusted e-commerce sites and verifi
 <td width="50%">
 
 **[AI-Agents Collection](https://github.com/gautammanak1/AI-Agents)**
-<br/>
-`Python` `Fetch.ai SDK` `Agentverse` `DeltaV`
 <br/><br/>
 Suite of AI agents for job search, hackathon discovery, profile recommendations, vehicle challan retrieval, and more.
 
@@ -423,35 +391,6 @@ Suite of AI agents for job search, hackathon discovery, profile recommendations,
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
-</div>
-
----
-
-## Open Source Contributions
-
-<div align="center">
-
-I actively contribute to the [Fetch.ai](https://github.com/fetchai) organization — commits, issues, pull requests, code reviews, and merges across core repos.
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/Open_Source_Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gautammanak1?tab=repositories)
-[![PyPI Packages](https://img.shields.io/badge/PyPI_Packages-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/gautammanak1/)
-[![npm Packages](https://img.shields.io/badge/npm_Packages-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/uagent-client)
-[![VS Code Extensions](https://img.shields.io/badge/VS_Code_Extensions-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=gautammanak2.fetch-coder)
-
-<br/>
-
-| Area | Contributions |
-|------|--------------|
-| **Fetch.ai Ecosystem** | uAgent integrations, Innovation Lab website, SDK documentation, agent demos |
-| **Commits & PRs** | [fetchai/uAgents](https://github.com/fetchai/uAgents), [fetchai/docs](https://github.com/fetchai/docs), Innovation Lab, SDK repos |
-| **Code Reviews** | Bug reports, feature requests, code reviews & merge approvals across Fetch.ai org |
-| **PyPI Packages** | `uagent-a2a-adapter` — A2A ↔ uAgent bridge, `asi1-mcp-cli` — MCP CLI tool |
-| **npm Packages** | `uagent-client` — Node.js/web library for uAgent communication |
-| **VS Code** | `Fetch Coder` — AI coding assistant powered by ASI1 API |
-| **Documentation** | Fetch.ai docs, uAgent guides, workshop materials, blog posts on Medium |
 
 </div>
 
