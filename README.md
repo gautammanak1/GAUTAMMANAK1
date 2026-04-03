@@ -485,9 +485,7 @@ No activity tracked
 
 <div align="center">
 
-![GitHub Stats](./stats/github-stats.svg)
-
-![Top Languages](./stats/top-langs.svg)
+<img src="./stats/github-stats.svg" width="100%" alt="GitHub Stats" />
 
 </div>
 
@@ -513,37 +511,7 @@ No activity tracked
 
 ---
 
-## Notable Contributions & Repos
-
-<div align="center">
-
-<img src="./stats/notable.svg" width="100%" alt="Notable Contributions" />
-
-</div>
-
----
-
-## Starred Topics
-
-<div align="center">
-
-<img src="./stats/topics.svg" width="100%" alt="Topics" />
-
-</div>
-
----
-
-## Commit Calendar
-
-<div align="center">
-
-<img src="./stats/calendar.svg" width="100%" alt="Commit Calendar" />
-
-</div>
-
----
-
-## Coding Habits
+## Coding Habits & Calendar
 
 <div align="center">
 

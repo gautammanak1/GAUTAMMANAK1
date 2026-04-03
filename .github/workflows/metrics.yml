@@ -9,11 +9,10 @@ permissions:
   contents: write
 
 jobs:
-  github-metrics:
+  stats:
     runs-on: ubuntu-latest
     steps:
-
-      - name: GitHub Stats
+      - name: GitHub Stats & Languages
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GH_TOKEN }}
@@ -21,18 +20,6 @@ jobs:
           user: GAUTAMMANAK1
           template: classic
           base: header, activity, community, repositories
-          config_display: large
-          config_timezone: Asia/Kolkata
-          config_output: svg
-
-      - name: Top Languages
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GH_TOKEN }}
-          filename: stats/top-langs.svg
-          user: GAUTAMMANAK1
-          template: classic
-          base: ""
           plugin_languages: yes
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
@@ -42,6 +29,9 @@ jobs:
           config_timezone: Asia/Kolkata
           config_output: svg
 
+  achievements:
+    runs-on: ubuntu-latest
+    steps:
       - name: Achievements
         uses: lowlighter/metrics@latest
         with:
@@ -58,51 +48,10 @@ jobs:
           config_timezone: Asia/Kolkata
           config_output: svg
 
-      - name: Notable Contributions
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GH_TOKEN }}
-          filename: stats/notable.svg
-          user: GAUTAMMANAK1
-          template: classic
-          base: ""
-          plugin_notable: yes
-          plugin_notable_from: all
-          plugin_notable_repositories: yes
-          config_display: large
-          config_timezone: Asia/Kolkata
-          config_output: svg
-
-      - name: Starred Topics
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GH_TOKEN }}
-          filename: stats/topics.svg
-          user: GAUTAMMANAK1
-          template: classic
-          base: ""
-          plugin_topics: yes
-          plugin_topics_mode: icons
-          plugin_topics_limit: 0
-          config_display: large
-          config_timezone: Asia/Kolkata
-          config_output: svg
-
-      - name: Commit Calendar
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GH_TOKEN }}
-          filename: stats/calendar.svg
-          user: GAUTAMMANAK1
-          template: classic
-          base: ""
-          plugin_calendar: yes
-          plugin_calendar_limit: 2
-          config_display: large
-          config_timezone: Asia/Kolkata
-          config_output: svg
-
-      - name: Coding Habits
+  habits:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Coding Habits & Calendar
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GH_TOKEN }}
@@ -112,8 +61,10 @@ jobs:
           base: ""
           plugin_habits: yes
           plugin_habits_charts_type: classic
-          plugin_habits_days: 30
+          plugin_habits_days: 14
           plugin_habits_facts: yes
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
           config_display: large
           config_timezone: Asia/Kolkata
           config_output: svg
