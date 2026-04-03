@@ -507,17 +507,47 @@ No activity tracked
 
 <div align="center">
 
-![Achievements](./stats/achievements.svg)
+<img src="./stats/achievements.svg" width="100%" alt="Achievements" />
 
 </div>
 
 ---
 
-## Notable Contributions
+## Notable Contributions & Repos
 
 <div align="center">
 
-![Notable Contributions](./stats/notable.svg)
+<img src="./stats/notable.svg" width="100%" alt="Notable Contributions" />
+
+</div>
+
+---
+
+## Starred Topics
+
+<div align="center">
+
+<img src="./stats/topics.svg" width="100%" alt="Topics" />
+
+</div>
+
+---
+
+## Commit Calendar
+
+<div align="center">
+
+<img src="./stats/calendar.svg" width="100%" alt="Commit Calendar" />
+
+</div>
+
+---
+
+## Coding Habits
+
+<div align="center">
+
+<img src="./stats/habits.svg" width="100%" alt="Coding Habits" />
 
 </div>
 
