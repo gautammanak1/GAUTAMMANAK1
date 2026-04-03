@@ -62,19 +62,6 @@ jobs:
           config_timezone: Asia/Kolkata
           config_output: svg
 
-      - name: Contribution Graph
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GH_TOKEN }}
-          filename: stats/contribution-graph.svg
-          user: GAUTAMMANAK1
-          template: classic
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-          config_timezone: Asia/Kolkata
-          config_output: svg
-
       - name: Notable Contributions
         uses: lowlighter/metrics@latest
         with:

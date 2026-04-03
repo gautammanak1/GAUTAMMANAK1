@@ -493,11 +493,11 @@ No activity tracked
 
 ---
 
-## Contribution Calendar
+## Contribution Graph
 
 <div align="center">
 
-![Contribution Graph](./stats/contribution-graph.svg)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GAUTAMMANAK1&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 
 </div>
 
