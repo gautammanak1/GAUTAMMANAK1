@@ -1,11 +1,9 @@
 name: Waka Readme
 
 on:
-  push:
-    branches: [main]
-  workflow_dispatch:
   schedule:
     - cron: '45 22 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
