@@ -445,41 +445,39 @@ No activity tracked
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GAUTAMMANAK1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb&include_all_commits=true&count_private=true)
+![GitHub Stats](./stats/github-stats.svg)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=GAUTAMMANAK1&theme=tokyonight&hide_border=true&background=0d1117&stroke=1f6feb&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GAUTAMMANAK1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact&langs_count=8)
+![Top Languages](./stats/top-langs.svg)
 
 </div>
 
 ---
 
-## Activity Graph
+## Contribution Calendar
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=GAUTAMMANAK1&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area_color=1f6feb&area=true&hide_border=true&custom_title=Contribution%20Graph)
+![Contribution Graph](./stats/contribution-graph.svg)
 
 </div>
 
 ---
 
-## GitHub Trophies
+## Achievements
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GAUTAMMANAK1&theme=darkhub&no-frame=true&margin-w=10&column=7)
+![Achievements](./stats/achievements.svg)
 
 </div>
 
 ---
 
-## Top Contributed Repos
+## Notable Contributions
 
 <div align="center">
 
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=GAUTAMMANAK1&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![Notable Contributions](./stats/notable.svg)
 
 </div>
 
