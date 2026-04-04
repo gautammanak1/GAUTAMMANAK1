@@ -88,6 +88,22 @@ class GautamManak:
 
 ---
 
+## What I'm Building Now
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│  🔧  Autonomous AI Agent Infra (MCP + A2A protocols)            │
+│  🚀  Developer tools for the agent ecosystem (CLI, SDKs)        │
+│  🌐  Web3 + AI integrations (MNEE stablecoin payments)          │
+│  📦  Open-source packages — uagent-a2a-adapter, asi1-mcp-cli    │
+│  🎓  Scaling ASI1 community across Indian cities                │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
 ## Experience
 
 <table>
@@ -588,7 +604,21 @@ If you're building in the agent space — let's talk.
 
 <sub>Available for contract-based development &nbsp;•&nbsp; Open to relocation for the right opportunity</sub>
 
-<br/><br/>
+</div>
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GAUTAMMANAK1/GAUTAMMANAK1/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GAUTAMMANAK1/GAUTAMMANAK1/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/GAUTAMMANAK1/GAUTAMMANAK1/output/github-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%" />
 
