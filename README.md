@@ -415,11 +415,11 @@ Suite of AI agents for job search, hackathon discovery, profile recommendations,
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/gautammanak1/asi1-vs-code/pull/2) in [gautammanak1/asi1-vs-code](https://github.com/gautammanak1/asi1-vs-code)
-2. 💪 Opened PR [#2](https://github.com/gautammanak1/asi1-vs-code/pull/2) in [gautammanak1/asi1-vs-code](https://github.com/gautammanak1/asi1-vs-code)
-3. 🎉 Merged PR [#1](https://github.com/gautammanak1/asi1-vs-code/pull/1) in [gautammanak1/asi1-vs-code](https://github.com/gautammanak1/asi1-vs-code)
-4. 💪 Opened PR [#1](https://github.com/gautammanak1/asi1-vs-code/pull/1) in [gautammanak1/asi1-vs-code](https://github.com/gautammanak1/asi1-vs-code)
-5. 🗣 Commented on [#202](https://github.com/google-agentic-commerce/AP2/pull/202#issuecomment-4150181448) in [google-agentic-commerce/AP2](https://github.com/google-agentic-commerce/AP2)
+1. 🚀 Published release [v0.1.8](https://github.com/gautammanak1/asi1-vs-code/releases/tag/v0.1.8) in [gautammanak1/asi1-vs-code](https://github.com/gautammanak1/asi1-vs-code)
+2. 🎉 Merged PR [#5](https://github.com/gautammanak1/asi1-vs-code/pull/5) in [gautammanak1/asi1-vs-code](https://github.com/gautammanak1/asi1-vs-code)
+3. 💪 Opened PR [#5](https://github.com/gautammanak1/asi1-vs-code/pull/5) in [gautammanak1/asi1-vs-code](https://github.com/gautammanak1/asi1-vs-code)
+4. 🚀 Published release [Release v0.1.6: New branding, auto-apply, terminal tool, inline edit & follow-up suggestions](https://github.com/gautammanak1/asi1-vs-code/releases/tag/v0.1.7) in [gautammanak1/asi1-vs-code](https://github.com/gautammanak1/asi1-vs-code)
+5. 🎉 Merged PR [#4](https://github.com/gautammanak1/asi1-vs-code/pull/4) in [gautammanak1/asi1-vs-code](https://github.com/gautammanak1/asi1-vs-code)
 <!--END_SECTION:activity-->
 
 ---
