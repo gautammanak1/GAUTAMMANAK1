@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=230&section=header&text=Gautam%20Kumar%20(Manak)&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Building%20Autonomous%20AI%20Agent%20Systems%20at%20Scale&descSize=18&descAlignY=56&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=230&section=header&text=Gautam%20Kumar%20(Manak)&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Building%20Autonomous%20AI%20Agent%20Systems%20at%20Fetch.ai&descSize=18&descAlignY=56&descAlign=50" width="100%" />
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
 
