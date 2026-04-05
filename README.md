@@ -517,26 +517,6 @@ No activity tracked
 
 ---
 
-## Achievements
-
-<div align="center">
-
-<img src="./stats/achievements.svg" width="100%" alt="Achievements" />
-
-</div>
-
----
-
-## Coding Habits & Calendar
-
-<div align="center">
-
-<img src="./stats/habits.svg" width="100%" alt="Coding Habits" />
-
-</div>
-
----
-
 ## Leadership & Community
 
 <div align="center">
