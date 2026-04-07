@@ -488,10 +488,10 @@ No activity tracked
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Intel — Deep Dive](https://dev.to/gautammanak1/intel-deep-dive-1o6k) Apr 06, 2026
-- [Kombai vs Figma MCP: The Ultimate Developer’s Guide](https://medium.com/@gautammanak1/kombai-vs-figma-mcp-the-ultimate-developers-guide-9dd2a739f5aa?source=rss-80f092f26777------2) Oct 10, 2025
-- [&quot;Rust and TypeScript&quot;](https://dev.to/gautammanak1/rust-and-typescript-4h3d) Aug 30, 2025
-- [JavaScript &amp; TypeScript: A Developer&#39;s Deep Dive](https://dev.to/gautammanak1/javascript-typescript-a-developers-deep-dive-mjo) Jul 21, 2025<!-- BLOG-POST-LIST:END -->
+- [Stability AI — Deep Dive](https://dev.to/gautammanak1/stability-ai-deep-dive-5f34) Apr 07, 2026
+- [Weaviate — Deep Dive](https://dev.to/gautammanak1/weaviate-deep-dive-4bgf) Apr 07, 2026
+- [Ocean Protocol — Deep Dive](https://dev.to/gautammanak1/ocean-protocol-deep-dive-36dn) Apr 07, 2026
+- [Weights &amp; Biases — Deep Dive](https://dev.to/gautammanak1/weights-biases-deep-dive-1acf) Apr 07, 2026<!-- BLOG-POST-LIST:END -->
 
 > Powered by [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) — auto-fetches from [Dev.to](https://dev.to/gautammanak1) & [Medium](https://medium.com/@gautammanak1)
 
