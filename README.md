@@ -488,10 +488,10 @@ No activity tracked
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel — Deep Dive](https://dev.to/gautammanak1/intel-deep-dive-2keh) Apr 08, 2026
 - [Stability AI — Deep Dive](https://dev.to/gautammanak1/stability-ai-deep-dive-5f34) Apr 07, 2026
 - [Weaviate — Deep Dive](https://dev.to/gautammanak1/weaviate-deep-dive-4bgf) Apr 07, 2026
-- [Ocean Protocol — Deep Dive](https://dev.to/gautammanak1/ocean-protocol-deep-dive-36dn) Apr 07, 2026
-- [Weights &amp; Biases — Deep Dive](https://dev.to/gautammanak1/weights-biases-deep-dive-1acf) Apr 07, 2026<!-- BLOG-POST-LIST:END -->
+- [Ocean Protocol — Deep Dive](https://dev.to/gautammanak1/ocean-protocol-deep-dive-36dn) Apr 07, 2026<!-- BLOG-POST-LIST:END -->
 
 > Powered by [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) — auto-fetches from [Dev.to](https://dev.to/gautammanak1) & [Medium](https://medium.com/@gautammanak1)
 
