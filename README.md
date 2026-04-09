@@ -415,11 +415,11 @@ Suite of AI agents for job search, hackathon discovery, profile recommendations,
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#25](https://github.com/fetchai/innovation-lab-examples/pull/25) in [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
-2. 🚀 Published release [v0.2.0](https://github.com/gautammanak1/asi1-vs-code/releases/tag/v0.2.0) in [gautammanak1/asi1-vs-code](https://github.com/gautammanak1/asi1-vs-code)
-3. 🎉 Merged PR [#8](https://github.com/gautammanak1/asi1-vs-code/pull/8) in [gautammanak1/asi1-vs-code](https://github.com/gautammanak1/asi1-vs-code)
-4. 💪 Opened PR [#8](https://github.com/gautammanak1/asi1-vs-code/pull/8) in [gautammanak1/asi1-vs-code](https://github.com/gautammanak1/asi1-vs-code)
-5. 🚀 Published release [Advanced agent system prompt](https://github.com/gautammanak1/asi1-vs-code/releases/tag/v0.1.9) in [gautammanak1/asi1-vs-code](https://github.com/gautammanak1/asi1-vs-code)
+1. 🎉 Merged PR [#2](https://github.com/gautammanak1/storytelling-agent/pull/2) in [gautammanak1/storytelling-agent](https://github.com/gautammanak1/storytelling-agent)
+2. ℹ️ Labeled PR [#2](https://github.com/gautammanak1/storytelling-agent/pull/2) in [gautammanak1/storytelling-agent](https://github.com/gautammanak1/storytelling-agent)
+3. 💪 Opened PR [#2](https://github.com/gautammanak1/storytelling-agent/pull/2) in [gautammanak1/storytelling-agent](https://github.com/gautammanak1/storytelling-agent)
+4. 🎉 Merged PR [#1](https://github.com/gautammanak1/storytelling-agent/pull/1) in [gautammanak1/storytelling-agent](https://github.com/gautammanak1/storytelling-agent)
+5. 💪 Opened PR [#1](https://github.com/gautammanak1/storytelling-agent/pull/1) in [gautammanak1/storytelling-agent](https://github.com/gautammanak1/storytelling-agent)
 <!--END_SECTION:activity-->
 
 ---
