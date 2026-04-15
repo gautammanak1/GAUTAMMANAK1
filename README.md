@@ -415,11 +415,11 @@ Suite of AI agents for job search, hackathon discovery, profile recommendations,
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [release: v0.2.15](https://github.com/gautammanak1/asi1-vs-code/releases/tag/v0.2.15) in [gautammanak1/asi1-vs-code](https://github.com/gautammanak1/asi1-vs-code)
-2. 🚀 Published release [v0.2.14](https://github.com/gautammanak1/asi1-vs-code/releases/tag/v0.2.14) in [gautammanak1/asi1-vs-code](https://github.com/gautammanak1/asi1-vs-code)
-3. 🚀 Published release [v0.2.13](https://github.com/gautammanak1/asi1-vs-code/releases/tag/v0.2.13) in [gautammanak1/asi1-vs-code](https://github.com/gautammanak1/asi1-vs-code)
-4. 🚀 Published release [v0.2.12](https://github.com/gautammanak1/asi1-vs-code/releases/tag/v0.2.12) in [gautammanak1/asi1-vs-code](https://github.com/gautammanak1/asi1-vs-code)
-5. 🚀 Published release [v0.2.11](https://github.com/gautammanak1/asi1-vs-code/releases/tag/v0.2.11) in [gautammanak1/asi1-vs-code](https://github.com/gautammanak1/asi1-vs-code)
+1. 🚀 Published release [v0.2.19](https://github.com/gautammanak1/asi1-vs-code/releases/tag/v0.2.19) in [gautammanak1/asi1-vs-code](https://github.com/gautammanak1/asi1-vs-code)
+2. 🚀 Published release [v0.2.18](https://github.com/gautammanak1/asi1-vs-code/releases/tag/v0.2.18) in [gautammanak1/asi1-vs-code](https://github.com/gautammanak1/asi1-vs-code)
+3. 🚀 Published release [release: v0.2.15](https://github.com/gautammanak1/asi1-vs-code/releases/tag/v0.2.15) in [gautammanak1/asi1-vs-code](https://github.com/gautammanak1/asi1-vs-code)
+4. 🚀 Published release [v0.2.14](https://github.com/gautammanak1/asi1-vs-code/releases/tag/v0.2.14) in [gautammanak1/asi1-vs-code](https://github.com/gautammanak1/asi1-vs-code)
+5. 🚀 Published release [v0.2.13](https://github.com/gautammanak1/asi1-vs-code/releases/tag/v0.2.13) in [gautammanak1/asi1-vs-code](https://github.com/gautammanak1/asi1-vs-code)
 <!--END_SECTION:activity-->
 
 ---
