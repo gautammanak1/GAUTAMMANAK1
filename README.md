@@ -488,10 +488,10 @@ No activity tracked
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LlamaIndex — Deep Dive](https://dev.to/gautammanak1/llamaindex-deep-dive-53g8) Apr 18, 2026
 - [Cerebras — Deep Dive](https://dev.to/gautammanak1/cerebras-deep-dive-53n0) Apr 17, 2026
 - [Supabase — Deep Dive](https://dev.to/gautammanak1/supabase-deep-dive-2cc9) Apr 16, 2026
-- [AI Tech Daily Agent — Complete Architecture Deep Dive &amp; Workflow Analysis](https://dev.to/gautammanak1/ai-tech-daily-agent-complete-architecture-deep-dive-workflow-analysis-h5a) Apr 15, 2026
-- [Salesforce — Deep Dive](https://dev.to/gautammanak1/salesforce-deep-dive-4en5) Apr 15, 2026<!-- BLOG-POST-LIST:END -->
+- [AI Tech Daily Agent — Complete Architecture Deep Dive &amp; Workflow Analysis](https://dev.to/gautammanak1/ai-tech-daily-agent-complete-architecture-deep-dive-workflow-analysis-h5a) Apr 15, 2026<!-- BLOG-POST-LIST:END -->
 
 > Powered by [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) — auto-fetches from [Dev.to](https://dev.to/gautammanak1) & [Medium](https://medium.com/@gautammanak1)
 
