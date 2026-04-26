@@ -488,10 +488,10 @@ No activity tracked
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek — Deep Dive](https://dev.to/gautammanak1/deepseek-deep-dive-2i52) Apr 26, 2026
 - [Tesla — Deep Dive](https://dev.to/gautammanak1/tesla-deep-dive-2gi8) Apr 25, 2026
 - [ElevenLabs — Deep Dive](https://dev.to/gautammanak1/elevenlabs-deep-dive-4l3p) Apr 24, 2026
-- [Weights &amp; Biases — Deep Dive](https://dev.to/gautammanak1/weights-biases-deep-dive-585l) Apr 23, 2026
-- [Meta — Deep Dive](https://dev.to/gautammanak1/meta-deep-dive-18mj) Apr 22, 2026<!-- BLOG-POST-LIST:END -->
+- [Weights &amp; Biases — Deep Dive](https://dev.to/gautammanak1/weights-biases-deep-dive-585l) Apr 23, 2026<!-- BLOG-POST-LIST:END -->
 
 > Powered by [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) — auto-fetches from [Dev.to](https://dev.to/gautammanak1) & [Medium](https://medium.com/@gautammanak1)
 
