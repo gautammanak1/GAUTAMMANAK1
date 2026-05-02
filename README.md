@@ -488,10 +488,10 @@ No activity tracked
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek — Deep Dive](https://dev.to/gautammanak1/deepseek-deep-dive-4lem) May 02, 2026
 - [Exa — Deep Dive](https://dev.to/gautammanak1/exa-deep-dive-dk) May 01, 2026
 - [AMD — Deep Dive](https://dev.to/gautammanak1/amd-deep-dive-1np9) Apr 30, 2026
-- [1X Technologies — Deep Dive](https://dev.to/gautammanak1/1x-technologies-deep-dive-4olp) Apr 29, 2026
-- [xAI — Deep Dive](https://dev.to/gautammanak1/xai-deep-dive-38ga) Apr 28, 2026<!-- BLOG-POST-LIST:END -->
+- [1X Technologies — Deep Dive](https://dev.to/gautammanak1/1x-technologies-deep-dive-4olp) Apr 29, 2026<!-- BLOG-POST-LIST:END -->
 
 > Powered by [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) — auto-fetches from [Dev.to](https://dev.to/gautammanak1) & [Medium](https://medium.com/@gautammanak1)
 
