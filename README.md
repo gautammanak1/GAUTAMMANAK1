@@ -415,11 +415,11 @@ Suite of AI agents for job search, hackathon discovery, profile recommendations,
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2.21](https://github.com/gautammanak1/asi1-vs-code/releases/tag/v0.2.21) in [gautammanak1/asi1-vs-code](https://github.com/gautammanak1/asi1-vs-code)
-2. 🎉 Merged PR [#31](https://github.com/fetchai/innovation-lab-examples/pull/31) in [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
-3. 💪 Opened PR [#31](https://github.com/fetchai/innovation-lab-examples/pull/31) in [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
-4. 🚀 Published release [v0.2.20](https://github.com/gautammanak1/asi1-vs-code/releases/tag/v0.2.20) in [gautammanak1/asi1-vs-code](https://github.com/gautammanak1/asi1-vs-code)
-5. 🚀 Published release [v0.2.19](https://github.com/gautammanak1/asi1-vs-code/releases/tag/v0.2.19) in [gautammanak1/asi1-vs-code](https://github.com/gautammanak1/asi1-vs-code)
+1. 🗣 Commented on [#32](https://github.com/fetchai/innovation-lab-examples/pull/32#issuecomment-4366828835) in [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
+2. 🗣 Commented on [#32](https://github.com/fetchai/innovation-lab-examples/pull/32#issuecomment-4366824443) in [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
+3. 🗣 Commented on [#33](https://github.com/fetchai/innovation-lab-examples/pull/33#issuecomment-4366816803) in [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
+4. 🗣 Commented on [#29](https://github.com/fetchai/innovation-lab-examples/pull/29#issuecomment-4366774727) in [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
+5. 🗣 Commented on [#29](https://github.com/fetchai/innovation-lab-examples/pull/29#issuecomment-4366774561) in [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
 <!--END_SECTION:activity-->
 
 ---
