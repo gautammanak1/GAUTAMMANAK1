@@ -415,11 +415,11 @@ Suite of AI agents for job search, hackathon discovery, profile recommendations,
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#1](https://github.com/gautammanak1/ai-tech-daily-agent/issues/1) in [gautammanak1/ai-tech-daily-agent](https://github.com/gautammanak1/ai-tech-daily-agent)
-2. ℹ️ Labeled issue [#1](https://github.com/gautammanak1/ai-tech-daily-agent/issues/1) in [gautammanak1/ai-tech-daily-agent](https://github.com/gautammanak1/ai-tech-daily-agent)
-3. ℹ️ Labeled issue [#1](https://github.com/gautammanak1/ai-tech-daily-agent/issues/1) in [gautammanak1/ai-tech-daily-agent](https://github.com/gautammanak1/ai-tech-daily-agent)
-4. ❗ Opened issue [#1](https://github.com/gautammanak1/ai-tech-daily-agent/issues/1) in [gautammanak1/ai-tech-daily-agent](https://github.com/gautammanak1/ai-tech-daily-agent)
-5. 🗣 Commented on [#22](https://github.com/fetchai/innovation-lab-examples/pull/22#issuecomment-4370736267) in [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
+1. ℹ️ Labeled issue [#1](https://github.com/gautammanak1/hackathon-evaluator/issues/1) in [gautammanak1/hackathon-evaluator](https://github.com/gautammanak1/hackathon-evaluator)
+2. ℹ️ Labeled issue [#1](https://github.com/gautammanak1/hackathon-evaluator/issues/1) in [gautammanak1/hackathon-evaluator](https://github.com/gautammanak1/hackathon-evaluator)
+3. ℹ️ Labeled issue [#1](https://github.com/gautammanak1/hackathon-evaluator/issues/1) in [gautammanak1/hackathon-evaluator](https://github.com/gautammanak1/hackathon-evaluator)
+4. ❗ Opened issue [#1](https://github.com/gautammanak1/hackathon-evaluator/issues/1) in [gautammanak1/hackathon-evaluator](https://github.com/gautammanak1/hackathon-evaluator)
+5. ℹ️ Labeled issue [#1](https://github.com/gautammanak1/ai-tech-daily-agent/issues/1) in [gautammanak1/ai-tech-daily-agent](https://github.com/gautammanak1/ai-tech-daily-agent)
 <!--END_SECTION:activity-->
 
 ---
