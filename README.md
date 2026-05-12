@@ -488,10 +488,10 @@ No activity tracked
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CrewAI — Deep Dive](https://dev.to/gautammanak1/crewai-deep-dive-558b) May 12, 2026
 - [Cursor — Deep Dive](https://dev.to/gautammanak1/cursor-deep-dive-393m) May 11, 2026
 - [GitHub Copilot — Deep Dive](https://dev.to/gautammanak1/github-copilot-deep-dive-4kol) May 08, 2026
-- [Lakera — Deep Dive](https://dev.to/gautammanak1/lakera-deep-dive-3i8k) May 07, 2026
-- [Zhipu AI — Deep Dive](https://dev.to/gautammanak1/zhipu-ai-deep-dive-2mhp) May 06, 2026<!-- BLOG-POST-LIST:END -->
+- [Lakera — Deep Dive](https://dev.to/gautammanak1/lakera-deep-dive-3i8k) May 07, 2026<!-- BLOG-POST-LIST:END -->
 
 > Powered by [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) — auto-fetches from [Dev.to](https://dev.to/gautammanak1) & [Medium](https://medium.com/@gautammanak1)
 
