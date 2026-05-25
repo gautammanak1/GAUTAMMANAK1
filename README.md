@@ -464,10 +464,10 @@ No activity tracked
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Samsung — Deep Dive](https://dev.to/gautammanak1/samsung-deep-dive-2298) May 25, 2026
 - [Pydantic AI — Deep Dive](https://dev.to/gautammanak1/pydantic-ai-deep-dive-5hca) May 22, 2026
 - [Harvey AI — Deep Dive](https://dev.to/gautammanak1/harvey-ai-deep-dive-374) May 21, 2026
-- [Bittensor — Deep Dive](https://dev.to/gautammanak1/bittensor-deep-dive-206k) May 21, 2026
-- [ElevenLabs — Deep Dive](https://dev.to/gautammanak1/elevenlabs-deep-dive-3m6g) May 20, 2026<!-- BLOG-POST-LIST:END -->
+- [Bittensor — Deep Dive](https://dev.to/gautammanak1/bittensor-deep-dive-206k) May 21, 2026<!-- BLOG-POST-LIST:END -->
 
 > Powered by [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) — auto-fetches from [Dev.to](https://dev.to/gautammanak1) & [Medium](https://medium.com/@gautammanak1)
 
