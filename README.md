@@ -466,10 +466,10 @@ No activity tracked
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Figure AI — Deep Dive](https://dev.to/gautammanak1/figure-ai-deep-dive-2f22) May 29, 2026
 - [Chainlink — Deep Dive](https://dev.to/gautammanak1/chainlink-deep-dive-41m6) May 28, 2026
 - [Scale AI — Deep Dive](https://dev.to/gautammanak1/scale-ai-deep-dive-91d) May 27, 2026
-- [Groq — Deep Dive](https://dev.to/gautammanak1/groq-deep-dive-4hkf) May 26, 2026
-- [Samsung — Deep Dive](https://dev.to/gautammanak1/samsung-deep-dive-2298) May 25, 2026<!-- BLOG-POST-LIST:END -->
+- [Groq — Deep Dive](https://dev.to/gautammanak1/groq-deep-dive-4hkf) May 26, 2026<!-- BLOG-POST-LIST:END -->
 
 > Powered by [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) — auto-fetches from [Dev.to](https://dev.to/gautammanak1) & [Medium](https://medium.com/@gautammanak1)
 
