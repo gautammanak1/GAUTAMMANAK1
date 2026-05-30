@@ -429,13 +429,13 @@ Suite of AI agents for job search, hackathon discovery, profile recommendations,
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.46%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.61%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 1,037 Contributions in the Year 2026
+> 🏆 1,047 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -443,8 +443,30 @@ Suite of AI agents for job search, hackathon discovery, profile recommendations,
  > 
 > 🔑 49 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 29/05/2026 00:31:13 UTC
+```text
+🌞 Morning                466 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+🌆 Daytime                8329 commits        ██████████░░░░░░░░░░░░░░░   38.76 % 
+🌃 Evening                9072 commits        ███████████░░░░░░░░░░░░░░   42.22 % 
+🌙 Night                  3620 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 30/05/2026 00:30:05 UTC
 <!--END_SECTION:waka-->
 
 ---
