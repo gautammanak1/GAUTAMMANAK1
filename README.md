@@ -488,10 +488,10 @@ No activity tracked
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Documentation Is Infrastructure: The Missing Layer in Every AI Stack](https://medium.com/@gautammanak1/documentation-is-infrastructure-the-missing-layer-in-every-ai-stack-ac16e07b27ef?source=rss-80f092f26777------2) Jun 01, 2026
-- [Samsung — Deep Dive](https://dev.to/gautammanak1/samsung-deep-dive-2fj3) Jun 01, 2026
-- [Figure AI — Deep Dive](https://dev.to/gautammanak1/figure-ai-deep-dive-2f22) May 29, 2026
-- [Chainlink — Deep Dive](https://dev.to/gautammanak1/chainlink-deep-dive-41m6) May 28, 2026<!-- BLOG-POST-LIST:END -->
+- [Why better documentation won&#39;t fix AI hallucinations](https://dev.to/gautammanak1/why-better-documentation-wont-fix-ai-hallucinations-3oo0) Jun 03, 2026
+- [Tabnine — Deep Dive](https://dev.to/gautammanak1/tabnine-deep-dive-4fg3) Jun 02, 2026
+- [Documentation Is Infrastructure: The Missing Layer in Every AI Stack](https://medium.com/aimonks/documentation-is-infrastructure-the-missing-layer-in-every-ai-stack-ac16e07b27ef?source=rss-80f092f26777------2) Jun 01, 2026
+- [Samsung — Deep Dive](https://dev.to/gautammanak1/samsung-deep-dive-2fj3) Jun 01, 2026<!-- BLOG-POST-LIST:END -->
 
 > Powered by [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) — auto-fetches from [Dev.to](https://dev.to/gautammanak1) & [Medium](https://medium.com/@gautammanak1)
 
