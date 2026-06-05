@@ -415,11 +415,11 @@ Suite of AI agents for job search, hackathon discovery, profile recommendations,
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/gautammanak1/doc2mcp/pull/6) in [gautammanak1/doc2mcp](https://github.com/gautammanak1/doc2mcp)
-2. 🗣 Commented on [#6](https://github.com/gautammanak1/doc2mcp/pull/6#issuecomment-4626476191) in [gautammanak1/doc2mcp](https://github.com/gautammanak1/doc2mcp)
-3. 🗣 Commented on [#6](https://github.com/gautammanak1/doc2mcp/pull/6#issuecomment-4625893508) in [gautammanak1/doc2mcp](https://github.com/gautammanak1/doc2mcp)
-4. 💪 Opened PR [#6](https://github.com/gautammanak1/doc2mcp/pull/6) in [gautammanak1/doc2mcp](https://github.com/gautammanak1/doc2mcp)
-5. 🗣 Commented on [#5](https://github.com/gautammanak1/doc2mcp/pull/5#issuecomment-4625319338) in [gautammanak1/doc2mcp](https://github.com/gautammanak1/doc2mcp)
+1. ℹ️ Assigned issue [#144](https://github.com/fetchai/innovation-lab-examples/issues/144) in [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
+2. 🎉 Merged PR [#6](https://github.com/gautammanak1/doc2mcp/pull/6) in [gautammanak1/doc2mcp](https://github.com/gautammanak1/doc2mcp)
+3. 🗣 Commented on [#6](https://github.com/gautammanak1/doc2mcp/pull/6#issuecomment-4626476191) in [gautammanak1/doc2mcp](https://github.com/gautammanak1/doc2mcp)
+4. 🗣 Commented on [#6](https://github.com/gautammanak1/doc2mcp/pull/6#issuecomment-4625893508) in [gautammanak1/doc2mcp](https://github.com/gautammanak1/doc2mcp)
+5. 💪 Opened PR [#6](https://github.com/gautammanak1/doc2mcp/pull/6) in [gautammanak1/doc2mcp](https://github.com/gautammanak1/doc2mcp)
 <!--END_SECTION:activity-->
 
 ---
