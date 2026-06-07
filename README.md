@@ -488,10 +488,10 @@ No activity tracked
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Turn any docs into an MCP, right from your terminal.](https://dev.to/gautammanak1/turn-any-docs-into-an-mcpright-from-your-terminal-21kf) Jun 07, 2026
+- [doc2mcp is live — turn any docs into a Cursor-ready MCP in 60 seconds. Try it free](https://dev.to/gautammanak1/doc2mcp-is-live-turn-any-docs-into-a-cursor-ready-mcp-in-60-seconds-try-it-free-53ll) Jun 07, 2026
 - [Leonardo AI — Deep Dive](https://dev.to/gautammanak1/leonardo-ai-deep-dive-1no9) Jun 05, 2026
-- [Anyscale — Deep Dive](https://dev.to/gautammanak1/anyscale-deep-dive-2im9) Jun 04, 2026
-- [Cognition — Deep Dive](https://dev.to/gautammanak1/cognition-deep-dive-1mam) Jun 03, 2026
-- [Why better documentation won&#39;t fix AI hallucinations](https://dev.to/gautammanak1/why-better-documentation-wont-fix-ai-hallucinations-3oo0) Jun 03, 2026<!-- BLOG-POST-LIST:END -->
+- [Anyscale — Deep Dive](https://dev.to/gautammanak1/anyscale-deep-dive-2im9) Jun 04, 2026<!-- BLOG-POST-LIST:END -->
 
 > Powered by [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) — auto-fetches from [Dev.to](https://dev.to/gautammanak1) & [Medium](https://medium.com/@gautammanak1)
 
