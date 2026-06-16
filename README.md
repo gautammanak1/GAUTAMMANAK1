@@ -415,11 +415,11 @@ Suite of AI agents for job search, hackathon discovery, profile recommendations,
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#141](https://github.com/fetchai/innovation-lab-examples/pull/141#issuecomment-4699752965) in [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
-2. ℹ️ Assigned issue [#144](https://github.com/fetchai/innovation-lab-examples/issues/144) in [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
-3. 🎉 Merged PR [#6](https://github.com/gautammanak1/doc2mcp/pull/6) in [gautammanak1/doc2mcp](https://github.com/gautammanak1/doc2mcp)
-4. 🗣 Commented on [#6](https://github.com/gautammanak1/doc2mcp/pull/6#issuecomment-4626476191) in [gautammanak1/doc2mcp](https://github.com/gautammanak1/doc2mcp)
-5. 🗣 Commented on [#6](https://github.com/gautammanak1/doc2mcp/pull/6#issuecomment-4625893508) in [gautammanak1/doc2mcp](https://github.com/gautammanak1/doc2mcp)
+1. 🗣 Commented on [#124](https://github.com/fetchai/innovation-lab-examples/pull/124#issuecomment-4713615253) in [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
+2. 🗣 Commented on [#155](https://github.com/fetchai/innovation-lab-examples/pull/155#issuecomment-4713089569) in [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
+3. 🗣 Commented on [#137](https://github.com/fetchai/innovation-lab-examples/pull/137#issuecomment-4711880138) in [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
+4. 🗣 Commented on [#120](https://github.com/fetchai/innovation-lab-examples/pull/120#issuecomment-4711879269) in [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
+5. 🗣 Commented on [#145](https://github.com/fetchai/innovation-lab-examples/pull/145#issuecomment-4711885504) in [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
 <!--END_SECTION:activity-->
 
 ---
