@@ -415,11 +415,11 @@ Suite of AI agents for job search, hackathon discovery, profile recommendations,
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#124](https://github.com/fetchai/innovation-lab-examples/pull/124#issuecomment-4713615253) in [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
-2. 🗣 Commented on [#155](https://github.com/fetchai/innovation-lab-examples/pull/155#issuecomment-4713089569) in [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
-3. 🗣 Commented on [#137](https://github.com/fetchai/innovation-lab-examples/pull/137#issuecomment-4711880138) in [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
-4. 🗣 Commented on [#120](https://github.com/fetchai/innovation-lab-examples/pull/120#issuecomment-4711879269) in [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
-5. 🗣 Commented on [#145](https://github.com/fetchai/innovation-lab-examples/pull/145#issuecomment-4711885504) in [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
+1. 🗣 Commented on [#158](https://github.com/fetchai/innovation-lab-examples/pull/158#issuecomment-4722430798) in [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
+2. ℹ️ Assigned PR [#158](https://github.com/fetchai/innovation-lab-examples/pull/158) in [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
+3. 🗣 Commented on [#153](https://github.com/fetchai/innovation-lab-examples/pull/153#issuecomment-4720540884) in [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
+4. 🗣 Commented on [#157](https://github.com/fetchai/innovation-lab-examples/pull/157#issuecomment-4720507711) in [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
+5. ℹ️ Assigned issue [#134](https://github.com/fetchai/innovation-lab-examples/issues/134) in [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
 <!--END_SECTION:activity-->
 
 ---
