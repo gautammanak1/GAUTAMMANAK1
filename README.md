@@ -488,10 +488,10 @@ No activity tracked
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Codeium — Deep Dive](https://dev.to/gautammanak1/codeium-deep-dive-2d78) Jun 16, 2026
-- [NVIDIA — Deep Dive](https://dev.to/gautammanak1/nvidia-deep-dive-593) Jun 15, 2026
-- [Doc2mcp](https://medium.com/@gautammanak1/doc2mcp-f2fc468d135d?source=rss-80f092f26777------2) Jun 14, 2026
-- [Lakera — Deep Dive](https://dev.to/gautammanak1/lakera-deep-dive-402g) Jun 12, 2026<!-- BLOG-POST-LIST:END -->
+- [Python Caching Strategies That Actually Speed Up Your Code](https://dev.to/gautammanak1/python-caching-strategies-that-actually-speed-up-your-code-nmj) Jun 17, 2026
+- [Python Caching Strategies That Actually Speed Up Code](https://dev.to/gautammanak1/python-caching-strategies-that-actually-speed-up-code-325o) Jun 17, 2026
+- [Understanding JavaScript and TypeScript: A Developer&#39;s Guide](https://dev.to/gautammanak1/understanding-javascript-and-typescript-a-developers-guide-5gef) Jun 17, 2026
+- [Waymo — Deep Dive](https://dev.to/gautammanak1/waymo-deep-dive-5ebf) Jun 17, 2026<!-- BLOG-POST-LIST:END -->
 
 > Powered by [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) — auto-fetches from [Dev.to](https://dev.to/gautammanak1) & [Medium](https://medium.com/@gautammanak1)
 
