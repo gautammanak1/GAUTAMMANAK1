@@ -488,10 +488,10 @@ No activity tracked
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [You.com — Deep Dive](https://dev.to/gautammanak1/youcom-deep-dive-3mom) Jun 18, 2026
 - [Python Caching Strategies That Actually Speed Up Your Code](https://dev.to/gautammanak1/python-caching-strategies-that-actually-speed-up-your-code-nmj) Jun 17, 2026
 - [Python Caching Strategies That Actually Speed Up Code](https://dev.to/gautammanak1/python-caching-strategies-that-actually-speed-up-code-325o) Jun 17, 2026
-- [Understanding JavaScript and TypeScript: A Developer&#39;s Guide](https://dev.to/gautammanak1/understanding-javascript-and-typescript-a-developers-guide-5gef) Jun 17, 2026
-- [Waymo — Deep Dive](https://dev.to/gautammanak1/waymo-deep-dive-5ebf) Jun 17, 2026<!-- BLOG-POST-LIST:END -->
+- [Understanding JavaScript and TypeScript: A Developer&#39;s Guide](https://dev.to/gautammanak1/understanding-javascript-and-typescript-a-developers-guide-5gef) Jun 17, 2026<!-- BLOG-POST-LIST:END -->
 
 > Powered by [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) — auto-fetches from [Dev.to](https://dev.to/gautammanak1) & [Medium](https://medium.com/@gautammanak1)
 
