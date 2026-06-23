@@ -488,10 +488,10 @@ No activity tracked
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [xAI — Deep Dive](https://dev.to/gautammanak1/xai-deep-dive-1c12) Jun 23, 2026
 - [Lambda — Deep Dive](https://dev.to/gautammanak1/lambda-deep-dive-1ff3) Jun 22, 2026
 - [NVIDIA — Deep Dive](https://dev.to/gautammanak1/nvidia-deep-dive-18mc) Jun 19, 2026
-- [You.com — Deep Dive](https://dev.to/gautammanak1/youcom-deep-dive-3mom) Jun 18, 2026
-- [Python Caching Strategies That Actually Speed Up Your Code](https://dev.to/gautammanak1/python-caching-strategies-that-actually-speed-up-your-code-nmj) Jun 17, 2026<!-- BLOG-POST-LIST:END -->
+- [You.com — Deep Dive](https://dev.to/gautammanak1/youcom-deep-dive-3mom) Jun 18, 2026<!-- BLOG-POST-LIST:END -->
 
 > Powered by [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) — auto-fetches from [Dev.to](https://dev.to/gautammanak1) & [Medium](https://medium.com/@gautammanak1)
 
