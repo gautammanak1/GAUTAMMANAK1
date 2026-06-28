@@ -415,8 +415,8 @@ Suite of AI agents for job search, hackathon discovery, profile recommendations,
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#141](https://github.com/fetchai/innovation-lab-examples/pull/141) in [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
-2. ℹ️ Labeled PR [#141](https://github.com/fetchai/innovation-lab-examples/pull/141) in [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
+1. 🚀 Published release [v0.1.55 — Security + CI hardening](https://github.com/gautammanak1/doc2mcp/releases/tag/v0.1.55) in [gautammanak1/doc2mcp](https://github.com/gautammanak1/doc2mcp)
+2. 🚀 Published release [v0.1.54 — Per-user MCP access tokens, marketplace safety, admin domains, enterprise](https://github.com/gautammanak1/doc2mcp/releases/tag/v0.1.54) in [gautammanak1/doc2mcp](https://github.com/gautammanak1/doc2mcp)
 3. 🗣 Commented on [#159](https://github.com/fetchai/innovation-lab-examples/pull/159#issuecomment-4733837067) in [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
 4. 🗣 Commented on [#159](https://github.com/fetchai/innovation-lab-examples/pull/159#issuecomment-4733837094) in [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
 5. ℹ️ Labeled PR [#159](https://github.com/fetchai/innovation-lab-examples/pull/159) in [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
