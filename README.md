@@ -488,10 +488,10 @@ No activity tracked
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cognition — Deep Dive](https://dev.to/gautammanak1/cognition-deep-dive-n6m) Jul 01, 2026
 - [Pinecone — Deep Dive](https://dev.to/gautammanak1/pinecone-deep-dive-1njg) Jun 30, 2026
 - [ElevenLabs — Deep Dive](https://dev.to/gautammanak1/elevenlabs-deep-dive-fcn) Jun 29, 2026
-- [Dify — Deep Dive](https://dev.to/gautammanak1/dify-deep-dive-1ml6) Jun 26, 2026
-- [AI21 Labs — Deep Dive](https://dev.to/gautammanak1/ai21-labs-deep-dive-3anh) Jun 25, 2026<!-- BLOG-POST-LIST:END -->
+- [Dify — Deep Dive](https://dev.to/gautammanak1/dify-deep-dive-1ml6) Jun 26, 2026<!-- BLOG-POST-LIST:END -->
 
 > Powered by [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) — auto-fetches from [Dev.to](https://dev.to/gautammanak1) & [Medium](https://medium.com/@gautammanak1)
 
