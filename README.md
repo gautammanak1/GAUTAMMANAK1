@@ -415,11 +415,11 @@ Suite of AI agents for job search, hackathon discovery, profile recommendations,
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45](https://github.com/doc2mcp/doc2mcp/pull/45#issuecomment-4940126974) in [doc2mcp/doc2mcp](https://github.com/doc2mcp/doc2mcp)
-2. 🗣 Commented on [#45](https://github.com/doc2mcp/doc2mcp/pull/45#issuecomment-4939922602) in [doc2mcp/doc2mcp](https://github.com/doc2mcp/doc2mcp)
-3. 🚀 Published release [v0.1.66 — Mobile sidebar and web search answer](https://github.com/doc2mcp/doc2mcp/releases/tag/v0.1.66) in [doc2mcp/doc2mcp](https://github.com/doc2mcp/doc2mcp)
-4. 🎉 Merged PR [#81](https://github.com/doc2mcp/doc2mcp/pull/81) in [doc2mcp/doc2mcp](https://github.com/doc2mcp/doc2mcp)
-5. 💪 Opened PR [#81](https://github.com/doc2mcp/doc2mcp/pull/81) in [doc2mcp/doc2mcp](https://github.com/doc2mcp/doc2mcp)
+1. 🚀 Published release [v0.1.68 — URL preview + full web search](https://github.com/doc2mcp/doc2mcp/releases/tag/v0.1.68) in [doc2mcp/doc2mcp](https://github.com/doc2mcp/doc2mcp)
+2. 🎉 Merged PR [#86](https://github.com/doc2mcp/doc2mcp/pull/86) in [doc2mcp/doc2mcp](https://github.com/doc2mcp/doc2mcp)
+3. ℹ️ Labeled PR [#86](https://github.com/doc2mcp/doc2mcp/pull/86) in [doc2mcp/doc2mcp](https://github.com/doc2mcp/doc2mcp)
+4. ℹ️ Labeled PR [#86](https://github.com/doc2mcp/doc2mcp/pull/86) in [doc2mcp/doc2mcp](https://github.com/doc2mcp/doc2mcp)
+5. 💪 Opened PR [#86](https://github.com/doc2mcp/doc2mcp/pull/86) in [doc2mcp/doc2mcp](https://github.com/doc2mcp/doc2mcp)
 <!--END_SECTION:activity-->
 
 ---
