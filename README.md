@@ -488,10 +488,10 @@ No activity tracked
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LangChain — Deep Dive](https://dev.to/gautammanak1/langchain-deep-dive-4ill) Jul 21, 2026
 - [Qualcomm — Deep Dive](https://dev.to/gautammanak1/qualcomm-deep-dive-41k) Jul 07, 2026
 - [GitHub Copilot — Deep Dive](https://dev.to/gautammanak1/github-copilot-deep-dive-5a99) Jul 06, 2026
-- [xAI — Deep Dive](https://dev.to/gautammanak1/xai-deep-dive-2i6m) Jul 03, 2026
-- [Render Network — Deep Dive](https://dev.to/gautammanak1/render-network-deep-dive-1onl) Jul 02, 2026<!-- BLOG-POST-LIST:END -->
+- [xAI — Deep Dive](https://dev.to/gautammanak1/xai-deep-dive-2i6m) Jul 03, 2026<!-- BLOG-POST-LIST:END -->
 
 > Powered by [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) — auto-fetches from [Dev.to](https://dev.to/gautammanak1) & [Medium](https://medium.com/@gautammanak1)
 
