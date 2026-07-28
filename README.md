@@ -494,10 +494,10 @@ No activity tracked
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI — Deep Dive](https://dev.to/gautammanak1/openai-deep-dive-105g) Jul 28, 2026
 - [Pydantic AI — Deep Dive](https://dev.to/gautammanak1/pydantic-ai-deep-dive-8ol) Jul 27, 2026
 - [Modal — Deep Dive](https://dev.to/gautammanak1/modal-deep-dive-4755) Jul 24, 2026
-- [Chainlink — Deep Dive](https://dev.to/gautammanak1/chainlink-deep-dive-3bbo) Jul 23, 2026
-- [Together AI — Deep Dive](https://dev.to/gautammanak1/together-ai-deep-dive-1b06) Jul 22, 2026<!-- BLOG-POST-LIST:END -->
+- [Chainlink — Deep Dive](https://dev.to/gautammanak1/chainlink-deep-dive-3bbo) Jul 23, 2026<!-- BLOG-POST-LIST:END -->
 
 > Powered by [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) — auto-fetches from [Dev.to](https://dev.to/gautammanak1) & [Medium](https://medium.com/@gautammanak1)
 
