@@ -494,10 +494,10 @@ No activity tracked
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [xAI — Deep Dive](https://dev.to/gautammanak1/xai-deep-dive-3enp) Aug 11, 2026
 - [Inflection AI — Deep Dive](https://dev.to/gautammanak1/inflection-ai-deep-dive-bnm) Aug 10, 2026
 - [Weights &amp; Biases — Deep Dive](https://dev.to/gautammanak1/weights-biases-deep-dive-4oda) Aug 07, 2026
-- [Writer — Deep Dive](https://dev.to/gautammanak1/writer-deep-dive-3f41) Aug 06, 2026
-- [Together AI — Deep Dive](https://dev.to/gautammanak1/together-ai-deep-dive-2fj5) Aug 05, 2026<!-- BLOG-POST-LIST:END -->
+- [Writer — Deep Dive](https://dev.to/gautammanak1/writer-deep-dive-3f41) Aug 06, 2026<!-- BLOG-POST-LIST:END -->
 
 > Powered by [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) — auto-fetches from [Dev.to](https://dev.to/gautammanak1) & [Medium](https://medium.com/@gautammanak1)
 
