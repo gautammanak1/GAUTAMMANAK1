@@ -494,10 +494,10 @@ No activity tracked
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [gautammanak — Deep Dive](https://dev.to/gautammanak1/gautammanak-deep-dive-2amo) Aug 17, 2026
+- [Google — Deep Dive](https://dev.to/gautammanak1/google-deep-dive-2g6g) Aug 17, 2026
 - [Jasper AI — Deep Dive](https://dev.to/gautammanak1/jasper-ai-deep-dive-397c) Aug 14, 2026
-- [CrewAI — Deep Dive](https://dev.to/gautammanak1/crewai-deep-dive-5d6f) Aug 13, 2026
-- [AI21 Labs — Deep Dive](https://dev.to/gautammanak1/ai21-labs-deep-dive-1nej) Aug 12, 2026
-- [xAI — Deep Dive](https://dev.to/gautammanak1/xai-deep-dive-3enp) Aug 11, 2026<!-- BLOG-POST-LIST:END -->
+- [CrewAI — Deep Dive](https://dev.to/gautammanak1/crewai-deep-dive-5d6f) Aug 13, 2026<!-- BLOG-POST-LIST:END -->
 
 > Powered by [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) — auto-fetches from [Dev.to](https://dev.to/gautammanak1) & [Medium](https://medium.com/@gautammanak1)
 
