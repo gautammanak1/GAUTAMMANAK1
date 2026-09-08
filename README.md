@@ -494,10 +494,10 @@ No activity tracked
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [BabyAGI — Deep Dive](https://dev.to/gautammanak1/babyagi-deep-dive-13oe) Sep 07, 2026
 - [Anthropic Safety — Deep Dive](https://dev.to/gautammanak1/anthropic-safety-deep-dive-2cmp) Sep 04, 2026
 - [Apple — Deep Dive](https://dev.to/gautammanak1/apple-deep-dive-3p2o) Sep 03, 2026
-- [BabyAGI — Deep Dive](https://dev.to/gautammanak1/babyagi-deep-dive-17b7) Sep 02, 2026
-- [Cursor — Deep Dive](https://dev.to/gautammanak1/cursor-deep-dive-3a37) Sep 01, 2026<!-- BLOG-POST-LIST:END -->
+- [BabyAGI — Deep Dive](https://dev.to/gautammanak1/babyagi-deep-dive-17b7) Sep 02, 2026<!-- BLOG-POST-LIST:END -->
 
 > Powered by [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) — auto-fetches from [Dev.to](https://dev.to/gautammanak1) & [Medium](https://medium.com/@gautammanak1)
 
