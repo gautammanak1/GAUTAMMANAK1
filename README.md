@@ -494,10 +494,10 @@ No activity tracked
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Flowise — Deep Dive](https://dev.to/gautammanak1/flowise-deep-dive-23c9) Sep 22, 2026
 - [Adobe — Deep Dive](https://dev.to/gautammanak1/adobe-deep-dive-5f3h) Sep 21, 2026
 - [Cognition — Deep Dive](https://dev.to/gautammanak1/cognition-deep-dive-266n) Sep 18, 2026
-- [Modal — Deep Dive](https://dev.to/gautammanak1/modal-deep-dive-1c1j) Sep 17, 2026
-- [Inflection AI — Deep Dive](https://dev.to/gautammanak1/inflection-ai-deep-dive-m2o) Sep 16, 2026<!-- BLOG-POST-LIST:END -->
+- [Modal — Deep Dive](https://dev.to/gautammanak1/modal-deep-dive-1c1j) Sep 17, 2026<!-- BLOG-POST-LIST:END -->
 
 > Powered by [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) — auto-fetches from [Dev.to](https://dev.to/gautammanak1) & [Medium](https://medium.com/@gautammanak1)
 
