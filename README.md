@@ -494,10 +494,10 @@ No activity tracked
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zhipu AI — Deep Dive](https://dev.to/gautammanak1/zhipu-ai-deep-dive-3lgf) Sep 25, 2026
 - [Fetch-A-Thon 3.0: Building the Future with AI Agents Across India](https://medium.com/@gautammanak1/fetch-a-thon-3-0-building-the-future-with-ai-agents-across-india-655fc059a01f?source=rss-80f092f26777------2) Sep 24, 2026
 - [Chainlink — Deep Dive](https://dev.to/gautammanak1/chainlink-deep-dive-1ld3) Sep 24, 2026
-- [OpenAI Safety — Deep Dive](https://dev.to/gautammanak1/openai-safety-deep-dive-ifk) Sep 23, 2026
-- [Flowise — Deep Dive](https://dev.to/gautammanak1/flowise-deep-dive-23c9) Sep 22, 2026<!-- BLOG-POST-LIST:END -->
+- [OpenAI Safety — Deep Dive](https://dev.to/gautammanak1/openai-safety-deep-dive-ifk) Sep 23, 2026<!-- BLOG-POST-LIST:END -->
 
 > Powered by [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) — auto-fetches from [Dev.to](https://dev.to/gautammanak1) & [Medium](https://medium.com/@gautammanak1)
 
