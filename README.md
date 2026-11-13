@@ -415,10 +415,10 @@ Suite of AI agents for job search, hackathon discovery, profile recommendations,
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/gautammanak1/gautam.manak/pull/2) in [gautammanak1/gautam.manak](https://github.com/gautammanak1/gautam.manak)
-2. 💪 Opened PR [#2](https://github.com/gautammanak1/gautam.manak/pull/2) in [gautammanak1/gautam.manak](https://github.com/gautammanak1/gautam.manak)
-3. 🗣 Commented on [#150](https://github.com/doc2mcp/doc2mcp/pull/150#issuecomment-5176329689) in [doc2mcp/doc2mcp](https://github.com/doc2mcp/doc2mcp)
-4. 🚀 Published release [v0.1.74](https://github.com/doc2mcp/doc2mcp/releases/tag/v0.1.74) in [doc2mcp/doc2mcp](https://github.com/doc2mcp/doc2mcp)
+1. 🗣 Commented on [#152](https://github.com/doc2mcp/doc2mcp/pull/152#issuecomment-6834307346) in [doc2mcp/doc2mcp](https://github.com/doc2mcp/doc2mcp)
+2. 🗣 Commented on [#150](https://github.com/doc2mcp/doc2mcp/pull/150#issuecomment-6834361153) in [doc2mcp/doc2mcp](https://github.com/doc2mcp/doc2mcp)
+3. 🗣 Commented on [#151](https://github.com/doc2mcp/doc2mcp/pull/151#issuecomment-6834327571) in [doc2mcp/doc2mcp](https://github.com/doc2mcp/doc2mcp)
+4. 🗣 Commented on [#152](https://github.com/doc2mcp/doc2mcp/pull/152#issuecomment-6834305180) in [doc2mcp/doc2mcp](https://github.com/doc2mcp/doc2mcp)
 5. 🎉 Merged PR [#149](https://github.com/doc2mcp/doc2mcp/pull/149) in [doc2mcp/doc2mcp](https://github.com/doc2mcp/doc2mcp)
 <!--END_SECTION:activity-->
 
